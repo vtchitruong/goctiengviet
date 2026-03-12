@@ -1,0 +1,44 @@
+# 1. Root-level configuration first
+site_name = "Góc Tiếng Việt"
+site_description = "Tra cứu từ vựng và ngữ pháp tiếng Việt"
+site_url = "https://vtchitruong.github.io/tiengviet/"
+
+# Link the custom CSS file here
+extra_css = ["stylesheets/custom.css"]
+
+# 2. Root-level nav array MUST go before any [brackets]
+nav = [
+  { "Trang chủ" = "index.md" },
+  { "Ngữ pháp" = [
+    "ngu-phap/index.md",
+    "ngu-phap/cau-truc-de-thuyet.md",
+    "ngu-phap/cam-khong-duoc-hut-thuoc.md",
+    "ngu-phap/cau-truc-hai-dong-ngu-song-song.md",
+    "ngu-phap/chuoi-vi-tu.md",
+    "ngu-phap/dong-tu-va-dong-ngu.md",
+    "ngu-phap/gioi-ngu.md",
+    "ngu-phap/tieng.md",
+    "ngu-phap/gioi-ngu.md",
+    "ngu-phap/van-van-vs-cham-lung.md"
+  ]},
+  { "Từ vựng" = [
+    "tu-vung/index.md",
+    "tu-vung/c.md",
+    "tu-vung/neu-du-mac-dau.md",
+    "tu-vung/tim-vs-kiem.md"
+  ]},
+  { "Thành ngữ" = [
+    "thanh-ngu/index.md",
+    "thanh-ngu/duoc-voi-doi-tien.md"
+  ]}
+]
+
+# 3. Tables go at the bottom
+[theme]
+name = "material"
+features = [
+    "navigation.tabs",
+    "navigation.indexes"
+]
+
+logo = "img/goc-tieng-viet-logo.png"

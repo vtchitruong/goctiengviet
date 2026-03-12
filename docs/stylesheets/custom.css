@@ -1,0 +1,57 @@
+/* 1. Main Page and Header Background */
+:root {
+    --md-default-bg-color: #f5f5dc;
+}
+
+/* Force the header background to match the page */
+.md-header, .md-tabs {
+    background-color: #f5f5dc !important;
+}
+
+/* 2. Header Text and Icons (Dark Green) */
+/* This ensures the site name and menu icons are visible on the beige background */
+.md-header__title,
+.md-header__ellipsis,
+.md-header__button
+ {
+    color: #2f5c4a !important;
+}
+
+.md-header__topic {
+    color: #5d4037 !important;
+}
+
+/* 3. Search Bar Adjustment */
+/* Gives the search box a subtle border/background so you can see it against the beige */
+.md-search__input {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+    color: #5d4037 !important;
+}
+.md-search__icon {
+    color: #2f5c4a !important;
+}
+
+/* 4. Article Text */
+.md-typeset {
+    color: #5d4037 !important;
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+    color: #5d4037 !important;
+}
+
+/* 5. Left Sidebar Navigation: Inactive State */
+.md-nav__link {
+    color: #606770 !important;
+    transition: background-color 0.25s, color 0.25s;
+}
+
+/* 6. Left Sidebar Navigation: Active State */
+.md-nav__link--active {
+    color: #2f5c4a !important;
+    background-color: #0000000d !important;
+    border-radius: 4px;
+    padding: 0.2rem 0.5rem; 
+}
