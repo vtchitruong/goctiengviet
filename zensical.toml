@@ -36,9 +36,12 @@ nav = [
 # 3. Tables go at the bottom
 [theme]
 name = "material"
+custom_dir = "overrides"
 features = [
     "navigation.tabs",
-    "navigation.indexes"
+    "navigation.indexes",
+    "navigation.footer"
 ]
 
 logo = "img/goc-tieng-viet-logo.png"
+favicon = "img/goc-tieng-viet-logo.png"

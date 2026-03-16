@@ -1,0 +1,83 @@
+{% extends "main.html" %}
+
+{% block content %}
+
+<style>
+  /* Break out of the main grid constraint */
+  .md-main__inner {
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  /* Eliminate internal padding applied to the content wrapper */
+  .md-content {
+    padding: 0 !important;
+  }
+
+  /* Strip formatting margins and padding from the article tag */
+  .md-content__inner {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+</style>
+
+<div style="display: block; width: 100%; overflow-x: hidden;">
+
+  <section style="background-color: #f5f5dc; padding: 120px 20px; text-align: center; border-bottom: 1px solid rgba(0,0,0,0.05);">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <h1 style="color: #2f5c4a; font-size: 3.5rem; font-weight: 800; margin-bottom: 24px;">
+        Góc Tiếng Việt
+      </h1>
+      <p style="color: #5d4037; font-size: 1.25rem; line-height: 1.6; margin-bottom: 40px;">
+        Nơi chia sẻ những kiến thức về ngôn ngữ học, ngữ pháp và từ vựng tiếng Việt. Một nguồn tài liệu tham khảo đáng tin cậy dành cho tất cả những ai yêu mến tiếng mẹ đẻ.
+      </p>
+      
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a href="ngu-phap/" class="md-button md-button--primary" style="background-color: #2f5c4a; color: #f5f5dc; border: 2px solid #2f5c4a; border-radius: 6px; padding: 12px 28px; font-weight: bold; font-size: 1.1rem;">
+          Khám phá Ngữ pháp
+        </a>
+        <a href="tu-vung/" class="md-button" style="color: #2f5c4a; border: 2px solid #2f5c4a; border-radius: 6px; padding: 12px 28px; font-weight: bold; font-size: 1.1rem;">
+          Tra cứu Từ vựng
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section style="background-color: #ffffff; padding: 80px 20px;">
+    <div style="max-width: 900px; margin: 0 auto; text-align: center;">
+      <h2 style="color: #5d4037; font-size: 2.2rem; margin-bottom: 24px;">Nguồn Cảm Hứng & Tài Liệu</h2>
+      <p style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 0;">
+        Nội dung trên website được hệ thống hoá từ quá trình học tập cá nhân. Các nguồn tài liệu tham khảo chính được đối chiếu từ các học giả uy tín. Toàn bộ nội dung hoàn toàn miễn phí, phi thương mại, với hy vọng góp phần bảo tồn sự trong sáng của tiếng Việt.
+      </p>
+    </div>
+  </section>
+
+  <section style="background-color: #fafafa; padding: 80px 20px;">
+    <div style="max-width: 1000px; margin: 0 auto;">
+      <h2 style="color: #2f5c4a; font-size: 2.2rem; text-align: center; margin-bottom: 48px;">Các Chuyên Mục Chính</h2>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px;">
+        
+        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #2f5c4a;">
+          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Ngữ pháp</h3>
+          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">Phân tích chi tiết về cấu trúc câu, các loại từ, và những quy tắc ngữ pháp phức tạp thường gây nhầm lẫn.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #8b4513;">
+          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Từ vựng</h3>
+          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">Khám phá các nhóm từ vựng theo chủ đề, tìm hiểu về từ nguyên và cách sử dụng từ trong các ngữ cảnh khác nhau.</p>
+        </div>
+
+        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #606770;">
+          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Ngữ âm</h3>
+          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">(Dự kiến) Tìm hiểu về hệ thống âm thanh, thanh điệu và cách phát âm chuẩn xác của người Việt.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+{% endblock %}
