@@ -18,18 +18,39 @@ nav = [
     "ngu-phap/dong-tu-va-dong-ngu.md",
     "ngu-phap/gioi-ngu.md",
     "ngu-phap/tieng.md",
-    "ngu-phap/gioi-ngu.md",
     "ngu-phap/van-van-vs-cham-lung.md"
   ]},
   { "Từ vựng" = [
     "tu-vung/index.md",
     "tu-vung/c.md",
     "tu-vung/neu-du-mac-dau.md",
-    "tu-vung/tim-vs-kiem.md"
+    "tu-vung/tim-vs-kiem.md",
+    "tu-vung/t.md",
   ]},
   { "Thành ngữ" = [
     "thanh-ngu/index.md",
     "thanh-ngu/duoc-voi-doi-tien.md"
+  ]},
+  { "Phương ngữ miền Nam" = [
+    "phuong-ngu-mien-nam/index.md",
+    "phuong-ngu-mien-nam/b.md",
+    "phuong-ngu-mien-nam/banh.md",
+    "phuong-ngu-mien-nam/c.md",
+    "phuong-ngu-mien-nam/cay-bong-trai.md",
+    "phuong-ngu-mien-nam/d.md",
+    "phuong-ngu-mien-nam/h.md",
+    "phuong-ngu-mien-nam/k.md",
+    "phuong-ngu-mien-nam/l.md",
+    "phuong-ngu-mien-nam/m.md",
+    "phuong-ngu-mien-nam/n.md",
+    "phuong-ngu-mien-nam/nuoc.md",
+    "phuong-ngu-mien-nam/p.md",
+    "phuong-ngu-mien-nam/q.md",
+    "phuong-ngu-mien-nam/s.md",
+    "phuong-ngu-mien-nam/t.md",
+    "phuong-ngu-mien-nam/tom-ca.md",
+    "phuong-ngu-mien-nam/u.md",
+    "phuong-ngu-mien-nam/x.md",
   ]}
 ]
 
@@ -43,5 +64,11 @@ features = [
     "navigation.footer"
 ]
 
+plugins = [
+    "search",
+    "markmap"
+]
+
 logo = "img/goc-tieng-viet-logo.png"
 favicon = "img/goc-tieng-viet-logo.png"
+

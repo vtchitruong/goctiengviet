@@ -1,108 +1,155 @@
 {% extends "main.html" %}
 
+{% block extrahead %}
+    <link rel="stylesheet" href="{{ base_url }}/stylesheets/home.css">
+{% endblock %}
+
 {% block content %}
 
 <style>
-  /* Break out of the main grid constraint */
-  .md-main__inner {
-    max-width: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-  
-  /* Eliminate internal padding applied to the content wrapper */
-  .md-content {
-    padding: 0 !important;
-  }
-
-  /* Strip formatting margins and padding from the article tag */
-  .md-content__inner {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
+.md-main__inner { max-width: none !important; padding: 0 !important; margin: 0 !important; }
+.md-content { padding: 0 !important; }
+.md-content__inner { padding: 0 !important; margin: 0 !important; }
 </style>
 
-<div style="display: block; width: 100%; overflow-x: hidden;">
+<div class="homepage-wrapper">
+    <section class="section-hero">
+        <div class="content-container-narrow">
+            <h1 class="hero-title">
+                Giữ gìn và tra cứu tiếng Việt
+            </h1>
+            <p class="hero-paragraph">
+                Chào mừng bạn đến với website <strong>Góc Tiếng Việt</strong>.</p>
 
-  <section style="background-color: #f5f5dc; padding: 120px 20px; text-align: center; border-bottom: 1px solid rgba(0,0,0,0.05);">
-    <div style="max-width: 800px; margin: 0 auto;">
-      <h1 style="color: #2f5c4a; font-size: 3.5rem; font-weight: 800; margin-bottom: 24px;">
-        Chào mừng đến với Góc Tiếng Việt
-      </h1>
-      <p style="color: #5d4037; font-size: 1.25rem; line-height: 1.6; margin-bottom: 40px;">
-        Chào mừng các bạn đã đến với website, nơi chia sẻ những kiến thức về ngôn ngữ học tiếng Việt.
-      </p>
-
-      <p style="color: #5d4037; font-size: 1.25rem; line-height: 1.6; margin-bottom: 40px;">
-        Website này được xây dựng với tâm huyết, xuất phát từ quá trình học tập và ghi chú cá nhân, với mong muốn tạo ra một nguồn tài liệu tham khảo đáng tin cậy, dễ tiếp cận dành cho tất cả những ai yêu mến tiếng Việt.
-      </p>
-
-      <p style="color: #5d4037; font-size: 1.25rem; line-height: 1.6; margin-bottom: 40px;">
-        Dù bạn là người nước ngoài đang trên hành trình chinh phục một ngôn ngữ mới, hay một người Việt muốn hiểu sâu hơn về tiếng mẹ đẻ, tôi tin rằng bạn sẽ tìm thấy những thông tin hữu ích tại đây.
-      </p>
-      
-      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-        <a href="ngu-phap/" class="md-button md-button--primary" style="background-color: #2f5c4a; color: #f5f5dc; border: 2px solid #2f5c4a; border-radius: 6px; padding: 12px 28px; font-weight: bold; font-size: 1.1rem;">
-          Khám phá Ngữ pháp
-        </a>
-        <a href="tu-vung/" class="md-button" style="color: #2f5c4a; border: 2px solid #2f5c4a; border-radius: 6px; padding: 12px 28px; font-weight: bold; font-size: 1.1rem;">
-          Tra cứu Từ vựng
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <section style="background-color: #ffffff; padding: 80px 20px;">
-    <div style="max-width: 900px; margin: 0 auto; text-align: center;">
-      <h2 style="color: #5d4037; font-size: 2.2rem; margin-bottom: 24px;">Nguồn cảm hứng & tài liệu</h2>
-      <p style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 0;">
-        Nội dung trên website là những ghi chú được tổng hợp và hệ thống hoá từ quá trình học tập cá nhân, chứ không phải là công trình nghiên cứu độc lập. Hầu hết kiến thức được tham khảo và đối chiếu từ các tài liệu uy tín sau:</p>
-
-      <ul>
-        <li style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 8px;">
-          Cao Xuân Hạo. (2021). Tiếng Việt - Văn Việt - Người Việt (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc.
-        </li>
-        <li style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 8px;">
-          Cao Xuân Hạo & Trần Thị Tuyết Mai. (2021). Sổ tay sửa lỗi hành văn (Tái bản lần 1). Nhà xuất bản Văn hoá Dân tộc.
-        </li>
-        <li style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 8px;">
-          An Chi. (2022). Rong chơi miền chữ nghĩa. Nhà xuất bản Tổng hợp Thành phố Hồ Chí Minh.
-        </li>
-        <li style="color: #606770; font-size: 1.1rem; line-height: 1.8; margin-bottom: 8px;">
-          Và còn nữa, tạm thời chưa liệt kê hết.
-        </li>
-      </ul>  
-    </div>
-  </section>
-
-  <section style="background-color: #fafafa; padding: 80px 20px;">
-    <div style="max-width: 1000px; margin: 0 auto;">
-      <h2 style="color: #2f5c4a; font-size: 2.2rem; text-align: center; margin-bottom: 48px;">Các Chuyên Mục Chính</h2>
-      
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px;">
-        
-        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #2f5c4a;">
-          <p>Hiện tại, website tập trung vào các chuyên mục chính:</p>
-
-          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Ngữ pháp</h3>
-          
-          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">Phân tích chi tiết về cấu trúc câu, các loại từ, và những quy tắc ngữ pháp phức tạp thường gây nhầm lẫn.</p>
+            <p class="hero-paragraph">
+                <strong>Góc Tiếng Việt</strong> là chỗ ghi chép những kiến thức về ngôn ngữ học tiếng Việt, nhằm mục đích học hỏi, giữ gìn, chia sẻ và tra cứu tiếng Việt.
+            </p>
+            
+            <p class="hero-paragraph">
+                <strong>Góc Tiếng Việt</strong> được xây dựng với mong muốn lưu giữ những cái hay, cái đẹp của tiếng Việt, đồng thời tạo ra một nơi tham khảo đáng tin cậy và dễ tiếp cận dành cho tất cả những ai yêu mến tiếng Việt.
+            </p>
+            
+            <div class="button-container">
+                <a href="ngu-phap/" class="md-button btn-custom-primary">
+                    Khám phá ngữ pháp
+                </a>
+                <a href="tu-vung/" class="md-button btn-custom-secondary">
+                    Tra cứu từ vựng
+                </a>
+            </div>
         </div>
+    </section>
 
-        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #8b4513;">
-          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Từ vựng</h3>
-          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">Khám phá các nhóm từ vựng theo chủ đề, tìm hiểu về từ nguyên và cách sử dụng từ trong các ngữ cảnh khác nhau.</p>
+    <section class="section-white">
+        <div class="grid-container-3col">
+            
+            <div class="value-block">
+                <h3>Khoa học và tin cậy</h3>
+                <p>
+                    <strong>Góc Tiếng Việt</strong> bao gồm các ghi chép được tổng hợp và sắp xếp khoa học, dựa trên những tài liệu ngôn ngữ học uy tín.
+                </p>
+            </div>
+
+            <div class="value-block">
+                <h3>Dễ tra cứu</h3>
+                <p>
+                    <strong>Góc Tiếng Việt</strong> tập trung vào trải nghiệm đọc và tra cứu. Nội dung được trình bày mạch lạc và đi thẳng vào vấn đề.
+                </p>
+            </div>
+
+            <div class="value-block">
+                <h3>Phi lợi nhuận</h3>
+                <p>
+                    <strong>Góc Tiếng Việt</strong> được xây dựng với mục đích chia sẻ kiến thức, hướng đến phi lợi nhuận. Người đọc có thể tiếp cận miễn phí trong thời gian chúng tôi còn đủ điều kiện duy trì website.
+                </p>
+            </div>
+
         </div>
+    </section>
 
-        <div style="background: #ffffff; padding: 32px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border-top: 4px solid #606770;">
-          <h3 style="color: #5d4037; margin-top: 0; font-size: 1.5rem;">Ngữ âm</h3>
-          <p style="color: #606770; line-height: 1.6; margin-bottom: 0;">(Dự kiến) Tìm hiểu về hệ thống âm thanh, thanh điệu và cách phát âm chuẩn xác của người Việt.</p>
+    <section class="section-white" style="border-top: 1px solid rgba(0,0,0,0.03);">
+        <div class="content-container-narrow">
+            <h2 class="section-title-brown">Nguồn cảm hứng & tài liệu tham khảo</h2>
+            <p class="text-explanation-muted">
+                Nội dung chủ yếu trên website là các ghi chép được tổng hợp qua quá trình học tập cá nhân, chứ không phải là công trình nghiên cứu của chúng tôi. Hầu hết được tham khảo từ các tài liệu uy tín sau đây:
+            </p>
+            
+            <ul class="custom-reference-list">
+                <li>
+                    Cao Xuân Hạo. (2021). <em>Tiếng Việt - Văn Việt - Người Việt (Tái bản lần 2)</em>. Nhà xuất bản Văn hóa Dân tộc.
+                </li>
+                <li>
+                    Cao Xuân Hạo & Trần Thị Tuyết Mai. (2021). <em>Sổ tay sửa lỗi hành văn (Tái bản lần 1)</em>. Nhà xuất bản Văn hóa Dân tộc.
+                </li>
+                <li>
+                    An Chi. (2022). <em>Rong chơi miền chữ nghĩa</em>. Nhà xuất bản Tổng hợp Thành phố Hồ Chí Minh.
+                </li>
+                <li>
+                    Duyên Trường. Các bài viết trong chuyên mục <em>Ú òa tiếng ta</em>, báo Tuổi trẻ Cười.
+                </li>
+                <li>
+                    Facebook Nguyễn Gia Việt.
+                </li>
+                <li>
+                    Và còn nữa, tạm thời chưa liệt kê hết.
+                </li>
+            </ul>
+
+            <p class="text-explanation-outro">
+                Xin chân thành tri ân các tác giả đã chia sẻ những kiến thức quý báu. Chúng tôi mạn phép ghi chép lại một phần để học hỏi, bằng tất cả sự tôn trọng và biết ơn sâu sắc của mình.
+            </p>
+            <p class="text-explanation-outro">
+                Do một số tài liệu được tiếp cận gián tiếp hoặc những hạn chế khác, chúng tôi chưa thể trích dẫn nguồn một cách đầy đủ và chính xác. Chúng tôi vẫn cố gắng tìm cách bổ sung cho hoàn chỉnh.
+            </p>
+        </div>        
+    </section>
+
+    <section class="section-tinted">
+        <div class="content-container-medium">
+            <h2 class="section-title-green">Các chuyên mục</h2>
+
+            <p class="card-intro-label">Hiện tại, website tập trung vào các chuyên mục chính:</p>
+            
+            <div class="grid-container-cards">
+                <div class="feature-card card-green">
+                    
+                    <h3>Ngữ pháp</h3>
+                    <p>Bao gồm các nội dung về cấu trúc câu, từ loại và quy tắc ngữ pháp.</p>
+                </div>
+
+                <div class="feature-card card-brown">
+                    <h3>Từ vựng</h3>
+                    <p>Bao gồm các nội dung về nhóm từ theo chủ đề, từ nguyên và cách sử dụng trong một số ngữ cảnh.</p>
+                </div>
+
+                <div class="feature-card card-grey">
+                    <h3>Phương ngữ miền Nam</h3>
+                    <p>Bao gồm các nội dung về từ ngữ của Nam bộ.</p>
+                </div>
+
+                <!-- <div class="feature-card card-grey">
+                    <h3>Ngữ âm</h3>
+                    <p>(Dự kiến) Tìm hiểu về hệ thống âm thanh, thanh điệu và cách phát âm chuẩn xác của người Việt.</p>
+                </div> -->
+
+            </div>
         </div>
+    </section>
 
-      </div>
-    </div>
-  </section>
-
+    <section class="section-purpose">
+        <div class="content-container-narrow">
+            <h2 class="section-title-brown">Mục đích hoạt động</h2>
+            <p class="purpose-description">
+                <strong>Góc Tiếng Việt</strong> được dùng để học hỏi, giữ gìn, chia sẻ và tra cứu tiếng Việt, một cách miễn phí và không hướng đến lợi nhuận thương mại. 
+            </p>
+            <p class="purpose-description">
+                Mục đích lớn hơn là góp một phần nhỏ vào việc bảo tồn và phát triển sự trong sáng, giàu đẹp của tiếng Việt.
+            </p>
+            <p class="purpose-call-to-action">
+                Để bắt đầu, mời bạn khám phá các chủ đề ở thanh điều hướng.<br>
+                Hy vọng bạn tìm thấy được thông tin mình cần và nhiều sự hứng thú.
+            </p>
+        </div>
+    </section>
 </div>
-
 {% endblock %}

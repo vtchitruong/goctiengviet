@@ -1,19 +1,104 @@
-/* 1. Main Page and Header Background */
+/* ==========================================================================
+   GLOBAL THEME DEFAULT STYLES (custom.css) - MOBILE FIRST (BUILDING UP)
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   A. DESIGN SYSTEM TOKENS & VARIABLES
+   -------------------------------------------------------------------------- */
 :root {
     --md-default-bg-color: #f5f5dc;
+    --gtv-primary: #4a90e2;
+    --gtv-green: #2f5c4a;
+    --gtv-yellow: #ffc107;
+    --gtv-brown: #8b4513;
+    --gtv-dark-brown: #5d4037;
+    --gtv-more-brown: #5d4a37;
+    --gtv-grey: #606770;
+    --gtv-tinted: #fafafa;
 }
 
-/* Force the header background to match the page */
-.md-header, .md-tabs {
+/* --------------------------------------------------------------------------
+   B. GLOBAL STICKY FOOTER ENGINE & ADVANCED SCROLL CONTROLS
+   -------------------------------------------------------------------------- */
+html {
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto !important; /* Establishes the main browser window as the sole vertical scroll track */
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: visible !important; /* Blocks the body layer from creating a secondary vertical scrollbar */
+}
+
+/* Force the framework layout shell to match the full height of the viewport monitor */
+.md-container {
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 100vh !important;
+    overflow-x: hidden !important; 
+    overflow-y: visible !important; /* CRITICAL FIX: Forces inner layout to pass vertical overflow upward */
+}
+
+/* Force the core reading content block to grow and fill any empty vertical space */
+.md-main {
+    flex: 1 0 auto !important;
+    overflow-y: visible !important;
+}
+
+/* Outer layout footer block container configuration */
+.md-footer {
+    flex-shrink: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    background-color: var(--gtv-more-brown) !important; 
+}
+
+/* Completely remove the empty system dialog wrapper from layout calculations */
+.md-dialog, 
+[data-md-component="dialog"] {
+    display: none !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    visibility: hidden !important;
+}
+
+/* --------------------------------------------------------------------------
+   C. EXTENSION RESET (Nukes provider button footprint spaces entirely)
+   -------------------------------------------------------------------------- */
+.provider-selection-button,
+#provider-selection-button,
+[class*="provider-selection-button"],
+[id*="provider-selection-button"],
+[data-provider-selection] {
+    display: none !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    max-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    position: absolute !important;
+    pointer-events: none !important;
+}
+
+/* --------------------------------------------------------------------------
+   D. HEADER & FOOTER NAVIGATION OVERRIDES (Global Branding)
+   -------------------------------------------------------------------------- */
+.md-header, 
+.md-tabs {
     background-color: #f5f5dc !important;
 }
 
-/* 2. Header Text and Icons (Dark Green) */
-/* This ensures the site name and menu icons are visible on the beige background */
 .md-header__title,
 .md-header__ellipsis,
-.md-header__button
- {
+.md-header__button {
     color: #2f5c4a !important;
 }
 
@@ -21,20 +106,37 @@
     color: #5d4037 !important;
 }
 
-/* 3. Search Bar Adjustment */
-/* Gives the search box a subtle border/background so you can see it against the beige */
+/* Global Search Component Rules */
 .md-search__input {
     background-color: rgba(0, 0, 0, 0.05) !important;
     color: #5d4037 !important;
 }
+
 .md-search__icon {
     color: #2f5c4a !important;
 }
 
-/* 4. Article Text */
+/* Force the next/previous article navigation bar to stretch perfectly edge-to-edge */
+.md-footer__inner {
+    background-color: #ececbd !important;
+    display: flex !important;
+    box-sizing: border-box !important;
+    
+    max-width: none !important; 
+    width: 100vw !important;      
+    position: relative !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    padding: 16px 24px !important; 
+}
+
+/* --------------------------------------------------------------------------
+   E. TYPOGRAPHY & SIDEBAR MENU INTERFACES
+   -------------------------------------------------------------------------- */
 .md-typeset {
     color: #5d4037 !important;
 }
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -42,16 +144,140 @@
     color: #5d4037 !important;
 }
 
-/* 5. Left Sidebar Navigation: Inactive State */
+/* Structural Sidebar Navigation Links */
 .md-nav__link {
     color: #606770 !important;
     transition: background-color 0.25s, color 0.25s;
 }
 
-/* 6. Left Sidebar Navigation: Active State */
 .md-nav__link--active {
     color: #2f5c4a !important;
     background-color: #0000000d !important;
     border-radius: 4px;
     padding: 0.2rem 0.5rem; 
+}
+
+/* --------------------------------------------------------------------------
+   F. SPLIT-INNER FOOTER COMPONENT & CRISP CLEARFIX REMOVAL
+   -------------------------------------------------------------------------- */
+.md-footer-meta {
+    background-color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.md-footer-meta__inner {
+    padding: 0 !important;
+    margin: 0 auto !important;
+}
+
+/* Completely deactivates dynamic framework clearfixes causing layout bugs */
+.md-footer-meta::before,
+.md-footer-meta::after,
+.md-footer-meta__inner::before,
+.md-footer-meta__inner::after,
+.md-copyright::before,
+.md-copyright::after {
+    display: none !important;
+    content: none !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.md-copyright {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    display: block !important;
+}
+
+/* PART 1: Full-width Edge-to-Edge Dark Brown Bar */
+.footer-part-dark {
+    background-color: #5d4037 !important;
+    display: flex;
+    flex-direction: column; /* Mobile baseline layout */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+    box-sizing: border-box !important;
+
+    /* Full-Bleed Screen Breakout Mechanics */
+    width: 100vw !important;
+    position: relative !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    padding: 0.5rem 3rem !important;
+}
+
+.footer-part-dark .md-copyright__highlight {
+    color: #f5f5dc !important;
+    margin: 0 !important;
+    font-size: 0.6rem !important;
+}
+
+.footer-part-dark .zensical-attribution {
+    color: rgba(245, 245, 220, 0.7) !important;
+    font-size: 0.6rem !important;
+    font-weight: 500;
+}
+
+/* PART 2: Full-width Edge-to-Edge Slogan Bar */
+.footer-part-light {
+    background-color: var(--gtv-more-brown) !important; 
+    text-align: center;
+    box-sizing: border-box !important;
+
+    /* Full-Bleed Screen Breakout Mechanics */
+    width: 100vw !important;
+    position: relative !important;
+    margin-left: calc(50% - 50vw) !important;
+    margin-right: calc(50% - 50vw) !important;
+    padding: 18px 16px 24px 16px !important;
+    margin-bottom: 0 !important;
+}
+
+.footer-part-light .md-copyright__note {
+    color: #f5f5dc !important; 
+    margin: 0 !important;
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+}
+
+/* ==========================================================================
+   PROGRESSIVE BREAKPOINTS - BUILDING UP (The Bootstrap Philosophy)
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. TABLET VIEWS & UP (min-width: 768px) -> Layout transforms for larger viewports
+   -------------------------------------------------------------------------- */
+@media (min-width: 768px) {
+    /* Safe hover highlights for cursor-driven pointer devices */
+    .md-nav__link:hover {
+        background-color: rgba(47, 92, 74, 0.05) !important;
+        border-radius: 4px;
+    }
+
+    /* Expand Article Navigation Bar padding parameters to align neatly with wide desktop grid lines */
+    .md-footer__inner {
+        padding-left: max(24px, calc((100vw - 1200px) / 2 + 24px)) !important;
+        padding-right: max(24px, calc((100vw - 1200px) / 2 + 24px)) !important;
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+
+    /* Transform dark footer block from stacked column to a horizontal layout row */
+    .footer-part-dark {
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 0.5rem max(2.5rem, calc((100vw - 1200px) / 2 + 2.5rem)) !important;
+    }
+    
+    /* Expand horizontal slogan padding parameters to align with desktop layout content grids */
+    .footer-part-light {
+        padding: 20px max(24px, calc((100vw - 1200px) / 2 + 24px)) 28px !important;
+    }
 }

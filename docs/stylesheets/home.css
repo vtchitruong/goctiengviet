@@ -1,0 +1,226 @@
+/* ==========================================================================
+   HOMEPAGE SPECIFIC STYLES (home.css) - MOBILE FIRST (BUILDING UP)
+   ========================================================================== */
+
+:root {
+    --gtv-primary: #4a90e2;
+    --gtv-green: #2f5c4a;
+    --gtv-yellow: #ffc107;
+    --gtv-brown: #8b4513;
+    --gtv-dark-brown: #5d4037;
+    --gtv-more-brown: #5d4a37;
+    --gtv-grey: #606770;
+    --gtv-tinted: #fafafa;
+}
+
+.homepage-wrapper {
+    display: block;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* --- MOBILE BASELINE STYLES (Default for Smartphones) --- */
+.content-container-narrow {
+    max-width: 100%;
+    width: 100%;
+    padding: 1rem 0.5rem;
+    margin: 0 auto;
+}
+
+.content-container-medium {
+    max-width: 100%;
+    width: 100%;
+    padding: 1rem 12px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 2rem 12px;
+}
+
+.section-hero {
+    background-color: #f5f5dc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.section-white {
+    background-color: #ffffff;
+    padding: 1rem 1rem;
+}
+
+.section-tinted {
+    background-color: var(--gtv-tinted);
+    padding: 1rem 1rem;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.section-purpose {
+    background-color: #f5f5dc;
+    padding: 1rem 1rem;
+    
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* Grids: Stacked into 1 column on mobile baseline */
+.grid-container-3col, 
+.grid-container-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Mobile Typography */
+h1.hero-title {
+    color: var(--gtv-green);
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+    line-height: 1.3;
+}
+
+.hero-paragraph, 
+.text-explanation-muted, 
+.text-explanation-outro, 
+.purpose-description,
+.purpose-call-to-action,
+.value-block p, 
+.feature-card p {
+    color: var(--gtv-dark-brown);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.text-explanation-muted, .text-explanation-outro, .value-block p, .feature-card p {
+    color: var(--gtv-grey);
+}
+
+h2.section-title-green { color: var(--gtv-green); font-size: 1.5rem; font-weight: 700; margin-bottom: 1.2rem; }
+h2.section-title-brown { color: var(--gtv-dark-brown); font-size: 1.5rem; font-weight: 700; margin-bottom: 1.2rem; }
+.value-block h3 { color: var(--gtv-green); font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem; }
+.feature-card h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 0.5rem; }
+.card-intro-label { font-size: 1rem; color: var(--gtv-grey); margin-bottom: 1rem; }
+
+h2.section-title-green,
+h2.section-title-brown {
+    margin: 1rem 0;
+}
+
+/* Equal-Height Component Interface Cards */
+.feature-card {
+    background: #ffffff;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+    text-align: left;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.feature-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+.card-green { border-top: 0.5rem solid var(--gtv-green); }
+.card-brown { border-top: 0.5rem solid var(--gtv-brown); }
+.card-grey  { border-top: 0.5rem solid var(--gtv-grey); }
+
+.card-green h3{ color: var(--gtv-green); }
+.card-brown h3 { color: var(--gtv-brown); }
+.card-grey h3  { color: var(--gtv-grey); }
+
+.card-green h3,
+.card-brown h3,
+.card-grey h3 {
+    margin: 0.5rem 0rem;
+}
+
+
+
+/* References List Reset (Removes duplicate bullets) */
+.custom-reference-list {
+    list-style: none !important;
+    padding: 0;
+    margin: 1.5rem 0;
+}
+.custom-reference-list li {
+    list-style: none !important;
+    color: var(--gtv-grey);
+    font-size: 1rem;
+    line-height: 1.7;
+    margin: 1rem 0 !important;
+
+    padding-left: 1.8rem;
+    position: relative;
+}
+.custom-reference-list li::before {
+    content: "🌻";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 1.1rem;
+}
+
+/* Equal Width Buttons Setup */
+.button-container {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+.button-container .md-button {
+    display: inline-block !important;
+    width: 240px !important;
+    text-align: center !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    font-weight: bold;
+    font-size: 1rem;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 6px;
+    transition: background-color 0.2s, opacity 0.2s;
+}
+.btn-custom-primary {
+    background-color: var(--gtv-green) !important;
+    color: #f5f5dc !important;
+    border: 2px solid var(--gtv-green) !important;
+}
+.btn-custom-primary:hover {
+    background-color: #24493a !important;
+}
+.btn-custom-secondary {
+    color: var(--gtv-green) !important;
+    border: 2px solid var(--gtv-green) !important;
+    background-color: transparent !important;
+}
+.btn-custom-secondary:hover {
+    background-color: rgba(47, 92, 74, 0.05) !important;
+}
+
+/* --- PROGRESSIVE BREAKPOINTS (Building Up for Tablets & Laptops) --- */
+@media (min-width: 768px) {
+    section {
+        padding: 2em 2rem;
+    }
+
+    h1.hero-title { font-size: 2.6rem; }
+    
+    /* Turn grids into flat 3-column rows */
+    .grid-container-3col, 
+    .grid-container-cards {
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 992px) {
+    .content-container-narrow { max-width: 800px; }
+    .content-container-medium { max-width: 1000px; }
+}
