@@ -1,7 +1,6 @@
-# K
+# V
 
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
-| kiếm | gươm |
-| kiếng | gương |
-| kinh | kênh |
+| vạc tre | lều chõng |
+| vậy đó | thế thôi |

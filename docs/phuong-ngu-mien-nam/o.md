@@ -1,7 +1,7 @@
-# K
+# O, Ô và Ơ
+
+## Ô
 
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
-| kiếm | gươm |
-| kiếng | gương |
-| kinh | kênh |
+| ốm | gầy |

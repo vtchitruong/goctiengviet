@@ -55,7 +55,7 @@ body {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
-    background-color: var(--gtv-more-brown) !important; 
+    /* background-color: var(--gtv-more-brown) !important;  */
 }
 
 /* Completely remove the empty system dialog wrapper from layout calculations */
@@ -118,7 +118,7 @@ body {
 
 /* Force the next/previous article navigation bar to stretch perfectly edge-to-edge */
 .md-footer__inner {
-    background-color: #ececbd !important;
+    background-color: var(--md-default-bg-color) !important;
     display: flex !important;
     box-sizing: border-box !important;
     
@@ -194,7 +194,7 @@ body {
 
 /* PART 1: Full-width Edge-to-Edge Dark Brown Bar */
 .footer-part-dark {
-    background-color: #5d4037 !important;
+    background-color: #ececbd !important;
     display: flex;
     flex-direction: column; /* Mobile baseline layout */
     justify-content: center;
@@ -212,20 +212,25 @@ body {
 }
 
 .footer-part-dark .md-copyright__highlight {
-    color: #f5f5dc !important;
+    color: var(--gtv-grey) !important;
     margin: 0 !important;
-    font-size: 0.6rem !important;
-}
-
-.footer-part-dark .zensical-attribution {
-    color: rgba(245, 245, 220, 0.7) !important;
     font-size: 0.6rem !important;
     font-weight: 500;
 }
 
+.footer-part-dark .zensical-attribution {
+    color: var(--gtv-grey) !important;
+    font-size: 0.6rem !important;
+}
+
+.md-footer__title {
+    color: var(--gtv-grey) !important;
+}
+
+
 /* PART 2: Full-width Edge-to-Edge Slogan Bar */
 .footer-part-light {
-    background-color: var(--gtv-more-brown) !important; 
+    background-color: var(--gtv-dark-brown) !important; 
     text-align: center;
     box-sizing: border-box !important;
 
@@ -279,5 +284,13 @@ body {
     /* Expand horizontal slogan padding parameters to align with desktop layout content grids */
     .footer-part-light {
         padding: 20px max(24px, calc((100vw - 1200px) / 2 + 24px)) 28px !important;
+    }
+
+    .md-search__button {
+        border-radius: 5rem;
+    }
+
+    .md-search__button::after {
+        border-radius: 5rem;
     }
 }

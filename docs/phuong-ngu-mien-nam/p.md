@@ -4,3 +4,4 @@
 | --- | --- |
 | pạc xỉu (bạc xỉu) | |
 | phì lũ (肥佬 ) | thằng mập, ông mập |
+| phiếm | đùa |

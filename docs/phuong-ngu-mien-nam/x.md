@@ -11,9 +11,12 @@
 | xáng bạt tai | tát |
 | xà lỉn | |
 | xấn xổ | |
+| xạo | điêu |
+| xạo ke | khoác lác |
 | (chửi) xối xả, xáng xả | |
-| xe hơi | ô tô |
+| xe hơi, xế hộp | ô tô |
 | xe lửa | tàu hỏa |
+| xẻ nửa | bổ đôi |
 | xẻo | con rạch nhỏ xíu |
 | xí xóa | |
 | xính xái | |

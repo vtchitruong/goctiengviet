@@ -1,7 +1,6 @@
-# K
+# G
 
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
-| kiếm | gươm |
-| kiếng | gương |
-| kinh | kênh |
+| giỏ tre | rọ |
+| giới thiệu | môi giới |

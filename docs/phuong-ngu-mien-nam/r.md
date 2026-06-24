@@ -1,7 +1,6 @@
-# K
+# R
 
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
-| kiếm | gươm |
-| kiếng | gương |
-| kinh | kênh |
+| rờ | vuốt |
+| rương | hòm |
