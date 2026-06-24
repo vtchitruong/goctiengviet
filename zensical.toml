@@ -16,6 +16,7 @@ nav = [
     "ngu-phap/cau-truc-hai-dong-ngu-song-song.md",
     "ngu-phap/chuoi-vi-tu.md",
     "ngu-phap/dong-tu-va-dong-ngu.md",
+    "ngu-phap/neu-du-mac-dau.md",
     "ngu-phap/gioi-ngu.md",
     "ngu-phap/tieng.md",
     "ngu-phap/van-van-vs-cham-lung.md"
@@ -25,7 +26,7 @@ nav = [
     "tu-vung/c.md",
     "tu-vung/d.md",
     "tu-vung/doi.md",
-    "tu-vung/neu-du-mac-dau.md",
+    
     "tu-vung/tim-vs-kiem.md",
     "tu-vung/t.md",
   ]},
@@ -45,7 +46,9 @@ nav = [
     "phuong-ngu-mien-nam/h.md",
     "phuong-ngu-mien-nam/k.md",
     "phuong-ngu-mien-nam/l.md",
+    "phuong-ngu-mien-nam/luon.md",
     "phuong-ngu-mien-nam/m.md",
+    "phuong-ngu-mien-nam/miet-vuon.md",
     "phuong-ngu-mien-nam/n.md",
     "phuong-ngu-mien-nam/o.md",
     "phuong-ngu-mien-nam/nuoc.md",
@@ -53,6 +56,7 @@ nav = [
     "phuong-ngu-mien-nam/q.md",
     "phuong-ngu-mien-nam/s.md",
     "phuong-ngu-mien-nam/t.md",
+    "phuong-ngu-mien-nam/trang.md",
     "phuong-ngu-mien-nam/tom-ca.md",
     "phuong-ngu-mien-nam/u.md",
     "phuong-ngu-mien-nam/v.md",
@@ -73,6 +77,13 @@ features = [
 plugins = [
     "search",
     "markmap"
+]
+
+markdown_extensions = [
+    "attr_list",
+    "fenced_code",
+    "tables"
+
 ]
 
 logo = "img/goc-tieng-viet-logo.png"
