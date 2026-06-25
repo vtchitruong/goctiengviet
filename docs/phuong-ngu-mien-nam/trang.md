@@ -31,7 +31,6 @@
 
     b. [Ghe lườn](luon.md){target="_blank"} là nguyên cây dài mà mổ "lòng máng". "Lòng máng" có thể sâu hay *trảng*, trẹt, cạn tùy mục đích sử dụng.
 
-
     c. Ca dao miền Nam:  
     Anh đi ghe cá *trảng lườn*  
     Ở trên Gia Định xuống vườn thăm em.

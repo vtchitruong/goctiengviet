@@ -30,13 +30,13 @@
     "Nhật nguyệt soi *đòi* bóng hiện  
     Đông hè trải đã xưa nay."
 
-    b. Nguyễn Du:  
+    b. Truyện Kiều của Nguyễn Du:  
     "Một hai nghiêng nước, nghiêng thành    
     Sắc đành đòi một, tài đành họa hai."
 
     Câu thơ này giải thích về nhan sắc của Thúy Kiều: nhiều lắm chỉ có một; về tài thì họa may có người thứ hai sánh bằng, chứ về nhan sắc chỉ có một.
 
-    c. Nguyễn Đình Chiểu:  
+    c. Lục Vân Tiên của Nguyễn Đình Chiểu:  
     "Nói rồi lụy nhỏ đòi cơn  
     Cùng nhau một sự oán hờn nên gây."
 

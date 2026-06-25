@@ -1,7 +1,6 @@
 # Miệt vườn
 
-Theo nhà văn Sơn Nam:
-
+Theo nhà văn Sơn Nam:  
 *Miệt vườn*, gọi tổng quát những vùng cao ráo, có vườn cam, vườn quýt ở ven sông Tiền, sông Hậu, thuộc tỉnh Sa Đéc, Vĩnh Long, Mỹ Tho, Cần Thơ. *Miệt vườn* tiêu biểu cho hình thức sanh hoạt vật chất và cao nhất ở vùng Đồng bằng sông Cửu Long. Chúng ta đã nghe những danh từ: về vườn, gái vườn, công tử vườn, điếm vườn, bắp vườn, nhà vườn.
 
 Ví dụ:  

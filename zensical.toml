@@ -26,22 +26,27 @@ nav = [
     "tu-vung/c.md",
     "tu-vung/d.md",
     "tu-vung/doi.md",
+    "tu-vung/pha.md",
     
     "tu-vung/tim-vs-kiem.md",
     "tu-vung/t.md",
   ]},
   { "Thành ngữ" = [
     "thanh-ngu/index.md",
-    "thanh-ngu/duoc-voi-doi-tien.md"
+    "thanh-ngu/duoc-voi-doi-tien.md",
+    "thanh-ngu/gia-mu-pha-mua.md"
   ]},
   { "Phương ngữ miền Nam" = [
     "phuong-ngu-mien-nam/index.md",
     "phuong-ngu-mien-nam/a.md",
     "phuong-ngu-mien-nam/b.md",
+    
     "phuong-ngu-mien-nam/banh.md",
+    "phuong-ngu-mien-nam/bot.md",
     "phuong-ngu-mien-nam/c.md",
     "phuong-ngu-mien-nam/cay-bong-trai.md",
     "phuong-ngu-mien-nam/d.md",
+    "phuong-ngu-mien-nam/diem.md",
     "phuong-ngu-mien-nam/g.md",
     "phuong-ngu-mien-nam/h.md",
     "phuong-ngu-mien-nam/k.md",
