@@ -23,18 +23,23 @@ nav = [
   ]},
   { "Từ vựng" = [
     "tu-vung/index.md",
+    "tu-vung/b.md",
     "tu-vung/c.md",
     "tu-vung/d.md",
-    "tu-vung/doi.md",
-    "tu-vung/pha.md",
-    
+    "tu-vung/k.md",
+    "tu-vung/l.md",
+    "tu-vung/m.md",
+    "tu-vung/o.md",
+    "tu-vung/ma.md",
+    "tu-vung/p.md",
     "tu-vung/tim-vs-kiem.md",
     "tu-vung/t.md",
   ]},
-  { "Thành ngữ" = [
-    "thanh-ngu/index.md",
-    "thanh-ngu/duoc-voi-doi-tien.md",
-    "thanh-ngu/gia-mu-pha-mua.md"
+  { "Ca dao, tục ngữ và thành ngữ" = [
+    "ca-dao-tuc-ngu-thanh-ngu/index.md",
+     "ca-dao-tuc-ngu-thanh-ngu/chau-cau-ma-lay-chau-co.md",
+    "ca-dao-tuc-ngu-thanh-ngu/duoc-voi-doi-tien.md",
+    "ca-dao-tuc-ngu-thanh-ngu/gia-mu-pha-mua.md"
   ]},
   { "Phương ngữ miền Nam" = [
     "phuong-ngu-mien-nam/index.md",
@@ -42,7 +47,6 @@ nav = [
     "phuong-ngu-mien-nam/b.md",
     
     "phuong-ngu-mien-nam/banh.md",
-    "phuong-ngu-mien-nam/bot.md",
     "phuong-ngu-mien-nam/c.md",
     "phuong-ngu-mien-nam/cay-bong-trai.md",
     "phuong-ngu-mien-nam/d.md",
@@ -51,7 +55,6 @@ nav = [
     "phuong-ngu-mien-nam/h.md",
     "phuong-ngu-mien-nam/k.md",
     "phuong-ngu-mien-nam/l.md",
-    "phuong-ngu-mien-nam/luon.md",
     "phuong-ngu-mien-nam/m.md",
     "phuong-ngu-mien-nam/miet-vuon.md",
     "phuong-ngu-mien-nam/n.md",
@@ -61,7 +64,6 @@ nav = [
     "phuong-ngu-mien-nam/q.md",
     "phuong-ngu-mien-nam/s.md",
     "phuong-ngu-mien-nam/t.md",
-    "phuong-ngu-mien-nam/trang.md",
     "phuong-ngu-mien-nam/tom-ca.md",
     "phuong-ngu-mien-nam/u.md",
     "phuong-ngu-mien-nam/v.md",

@@ -3,6 +3,7 @@
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
 | ba | bố |
+| bà cố | diễn tả mức độ tối đa, cao nhất, cực đỉnh.<br>Từ tương đương: *ác*. <br>Ví dụ: đẹp *ác*, đẹp *bà cố*.|
 | bảnh, bảnh tỏn | |
 | bao thơ, gói bao thơ | phong bì, gửi phong bì |
 | bắc (bắc Mỹ Thuận, bắc Vàm Cống, bắc Cái Vồn) | bac (tiếng Pháp: phà) |
