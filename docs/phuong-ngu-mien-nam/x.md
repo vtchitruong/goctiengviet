@@ -18,6 +18,7 @@
 | xe lửa | tàu hỏa |
 | xẻ nửa | bổ đôi |
 | xẻo | con rạch nhỏ xíu |
+| xí | giành, giành lấy |
 | xí xóa | |
 | xính xái | |
 | xối nước | giội nước |

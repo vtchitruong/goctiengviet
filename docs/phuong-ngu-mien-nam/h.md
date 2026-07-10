@@ -2,6 +2,7 @@
 
 | Từ miền Nam | Ý nghĩa hoặc từ miền khác |
 | --- | --- |
+| hao | tốn |
 | hay | giỏi |
 | hen | suyễn |
 | hết (chỗ) chê | cực |

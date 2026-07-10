@@ -41,5 +41,15 @@
     b. [Ghe lườn](l.md#luon){target="_blank"} là nguyên cây dài mà mổ "lòng máng". "Lòng máng" có thể sâu hay *trảng*, trẹt, cạn tùy mục đích sử dụng.
 
     c. Ca dao miền Nam:  
-    Anh đi ghe cá *trảng lườn*  
-    Ở trên Gia Định xuống vườn thăm em.
+    "Anh đi ghe cá *trảng lườn*  
+    Ở trên Gia Định xuống vườn thăm em."
+
+---
+
+## trâu
+
+*Trâu* dùng để chỉ sự vật gì to lớn hơn cùng loại.
+
+Ví dụ:  
+a. Đỉa *trâu*.  
+b. Chửa *trâu*: chỉ thai phụ mang bầu đã "già tháng", "quá ngày" nhưng vẫn chưa trở dạ.

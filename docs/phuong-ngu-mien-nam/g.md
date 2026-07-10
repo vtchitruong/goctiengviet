@@ -1,6 +1,20 @@
 # G
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| giỏ tre | rọ |
-| giới thiệu | môi giới |
+## giỏ tre
+
+rọ
+
+---
+
+## giựt
+
+giật
+
+Thí dụ:  
+*giựt* mình
+
+---
+
+## giới thiệu
+
+môi giới

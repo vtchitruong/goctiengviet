@@ -1,5 +1,15 @@
 # C
 
+## chẳng
+
+*Chẳng* có nghĩa như *không* mà có ý quả quyết hơn.
+
+Ví dụ:  
+a. Chẳng cày lấy đâu ra thóc.  
+b. Chẳng học lấy đâu biết chữ.
+
+---
+
 ## chí
 
 *Chí* có nghĩa "cực cấp tuyệt đối" (superlatif absolu), tức là cái nghĩa thường được diễn đạt bằng *rất*, *lắm*, như trong *chí phải*, *chí lý*, *chí tôn*, *chí hiếu*, *chí công*, *chí minh*. [^1]
@@ -27,3 +37,9 @@ Ví dụ:
 Những người có lương thức sẽ lên án quan niệm cho rằng *cứu cánh* (mục đích) biện minh cho *phương tiện* (hay thủ đoạn). Nghĩa là nếu mục đích đã tốt đẹp thì dùng thủ đoạn nào để đạt được nó cũng đều tốt cả.
 
 Còn đối với phần lớn người Việt, do cách hiểu *cứu cánh* và *phương tiện* chỉ là một như trên, họ tránh hẳn được vấn đề đề nan giải về đạo đức học.
+
+---
+
+### cực chẳng đã
+
+Rơi vào trường hợp ngặt nghèo, bất đắc dĩ, nên đành phải ...

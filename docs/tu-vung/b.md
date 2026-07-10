@@ -12,28 +12,27 @@
     Ví dụ:
 
     a. Nguyễn Trãi:  
-    Chẳng hay rắp rắp đã bốn mươi  
-    Ngày tháng *bằng* thoi một phút cười.
+    "Chẳng hay rắp rắp đã bốn mươi  
+    Ngày tháng *bằng* thoi một phút cười."
     
     b. *Hồng Đức quốc âm thi tập*:  
-    Chín vạc đặt yên *bằng* núi  
-    Ai rằng ơn chẳng đến muôn dân.
+    "Chín vạc đặt yên *bằng* núi  
+    Ai rằng ơn chẳng đến muôn dân."
 
     c. *Hồng Đức quốc âm thi tập*:  
-    Song mai nguyệt tỏ thanh *bằng* nước  
-    Cửa trúc sương xâm lạnh nữa đồng.
+    "Song mai nguyệt tỏ thanh *bằng* nước  
+    Cửa trúc sương xâm lạnh nữa đồng."
 
 3. Ngang với.
 
-    Ví dụ:
+    Ví dụ:  
+    a. *Truyện Kiều* của Nguyễn Du:  
+    "Thiện căn ở tại lòng ta  
+    Chữ tâm kia mới bằng ba chữ tài."
 
     a. *Truyện Kiều* của Nguyễn Du:  
-    Thiện căn ở tại lòng ta  
-    Chữ tâm kia mới bằng ba chữ tài.
-
-    a. *Truyện Kiều* của Nguyễn Du:  
-    Ngẫm từ dấy việc binh đao  
-    Đống xương vô định đã cao *bằng* đầu.
+    "Ngẫm từ dấy việc binh đao  
+    Đống xương vô định đã cao *bằng* đầu."
 
 ---
 

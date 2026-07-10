@@ -29,7 +29,7 @@
 
     Ví dụ:  
     Ca dao miền Nam:  
-    Anh đi ghe cá *trảng lườn*  
-    Ở trên Gia Định xuống vườn thăm em.
+    "Anh đi ghe cá *trảng lườn*  
+    Ở trên Gia Định xuống vườn thăm em."
 
     Ý rằng, chọn lấy ghe lườn cỡ này mới bảnh, mới oách, bởi mình từ chốn thị thành đô hội về miệt vườn.

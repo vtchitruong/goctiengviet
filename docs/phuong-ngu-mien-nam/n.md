@@ -1,12 +1,101 @@
 # N
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| nấu cơm | thổi cơm |
-| ngắt | véo |
-| Ngu ghê! | Quá dại! |
-| nhơn (cổ nhơn, phu nhơn) | nhân (cổ nhân, phu nhân) |
-| nhứt (Tân Sơn Nhứt) | nhất (Tân Sơn Nhất) |
-| nói dai | lải nhải |
-| nón | mũ |
-| nước lèo | nước dùng |
+## nấu cơm
+
+thổi cơm
+
+---
+
+## ngắt
+
+véo
+
+---
+
+## nghinh
+
+nghênh
+
+Thí dụ:  
+hoan *nghinh* = hoan *nghênh*
+
+---
+
+## Ngu ghê!
+
+Quá dại!
+
+---
+
+## nhơ bợn
+
+dơ bẩn
+
+---
+
+## nhơn
+
+nhân
+
+Thí dụ:  
+a. bệnh *nhơn*, cổ *nhơn*, nạn *nhơn*, phu *nhơn*, sát *nhơn*  
+b. *nhơn* lực, *nhơn* tài
+
+---
+
+## nhứt
+
+nhất
+
+Thí dụ:  
+a. Tân Sơn *Nhứt*  
+b. thứ *nhứt*  
+c. ít *nhứt*    
+d. *nhứt* định
+
+---
+
+## nhựt
+
+nhật
+
+Thí dụ:  
+*Nhựt* Bổn = *Nhật* Bản
+
+---
+
+## nói dai
+
+lải nhải
+
+---
+
+## nón
+
+mũ
+
+---
+
+
+## nực
+
+nóng
+
+Thí dụ:  
+trời *nực* = trời *nóng*
+
+---
+
+## nước leo nước giựt
+
+nước lên nước rút
+
+---
+
+## nước lèo
+
+nước dùng
+
+---
+
+

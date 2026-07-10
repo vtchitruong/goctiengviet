@@ -22,4 +22,4 @@
 
     Ví dụ:  
     Trong tập sách *Đạo Mẫu Việt Nam* (2009), nhà nghiên cứu Ngô Đức Thịnh không sử dụng từ ốp, nhưng lại giải thích cho câu "Thánh *ốp* đồng":  
-    Sau khi làm lễ và xin phép mọi người được làm lễ nhập đồng, ông Đồng hay bà Đồng trùm khăn đỏ lên đầu, để thực hiện nghi thức Thánh giáng (nhập), một nghi thức quan trọng bậc nhất trong hầu đồng.
+    "Sau khi làm lễ và xin phép mọi người được làm lễ nhập đồng, ông Đồng hay bà Đồng trùm khăn đỏ lên đầu, để thực hiện nghi thức Thánh giáng (nhập), một nghi thức quan trọng bậc nhất trong hầu đồng."
