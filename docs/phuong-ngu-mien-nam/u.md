@@ -2,12 +2,17 @@
 
 ## U
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| ù | mập |
+### ù
+
+mập
+
+---
 
 ## Ư
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| ưng | hài lòng |
+### ưng
+
+hài lòng
+
+---
+

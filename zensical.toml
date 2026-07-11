@@ -39,7 +39,8 @@ nav = [
   ]},
   { "Ca dao, tục ngữ và thành ngữ" = [
     "ca-dao-tuc-ngu-thanh-ngu/index.md",
-     "ca-dao-tuc-ngu-thanh-ngu/chau-cau-ma-lay-chau-co.md",
+    "ca-dao-tuc-ngu-thanh-ngu/cat-do-nguoi.md",
+    "ca-dao-tuc-ngu-thanh-ngu/chau-cau-ma-lay-chau-co.md",
     "ca-dao-tuc-ngu-thanh-ngu/duoc-voi-doi-tien.md",
     "ca-dao-tuc-ngu-thanh-ngu/gia-mu-pha-mua.md"
   ]},
@@ -50,9 +51,11 @@ nav = [
     
     "phuong-ngu-mien-nam/banh.md",
     "phuong-ngu-mien-nam/c.md",
+    
     "phuong-ngu-mien-nam/cay-bong-trai.md",
     "phuong-ngu-mien-nam/d.md",
     "phuong-ngu-mien-nam/dd.md",
+    "phuong-ngu-mien-nam/dong-vat.md",
     "phuong-ngu-mien-nam/g.md",
     "phuong-ngu-mien-nam/h.md",
     "phuong-ngu-mien-nam/i.md",

@@ -39,6 +39,23 @@ mong lấy hên
 
 ---
 
+## lé đé
+
+---
+
+## lền khên
+
+---
+
+## lia lịa
+
+Lặp đi lặp lại một cách liên tục, dồn dập và rất nhanh.
+
+Thí dụ:  
+chớp mặt *lia lịa*.
+
+---
+
 ## lịnh
 
 lệnh
@@ -51,6 +68,10 @@ ra *lịnh*
 ## lòi dom
 
 bị trĩ
+
+---
+
+## lỏng bỏng
 
 ---
 

@@ -27,6 +27,17 @@ hãi quá
 
 ---
 
+## sụp
+
+1. Rơi, đổ.
+
+2. Hạ thấp vị trí một cách đột ngột, nhanh chóng và không cưỡng lại được.
+
+Thí dụ:  
+Mặt trời *sụp* xuống.
+
+---
+
 ## sương sa
 
 ---

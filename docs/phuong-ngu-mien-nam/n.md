@@ -27,6 +27,14 @@ Quá dại!
 
 ---
 
+## nhảy nhổm
+
+1. Diễn tả tư thế thay đổi đột ngột từ đang ngồi, đang nằm thành đứng dậy hoặc nhảy cẫng lên.
+
+2. Diễn tả sự phản ứng một cách vội vàng, mất bình tĩnh trước một sự việc chạm đến lợi ích cá nhân.
+
+---
+
 ## nhơ bợn
 
 dơ bẩn

@@ -64,6 +64,12 @@ tiền đồn
 
 ---
 
+## chót hòn
+
+đỉnh hòn
+
+---
+
 ## chối lòng vòng
 
 dối quanh
@@ -115,3 +121,10 @@ mang thai
 kỳ
 
 ---
+
+## cọng
+
+sợi
+
+Thí dụ:  
+*cọng* gai = *sợi* gai

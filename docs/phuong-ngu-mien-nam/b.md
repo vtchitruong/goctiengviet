@@ -6,6 +6,12 @@ bố
 
 ---
 
+## bạc xỉu
+
+Từ tương tự: pạc xỉu.
+
+---
+
 ## ban sơ
 
 buổi đầu, lúc đầu
@@ -20,6 +26,8 @@ Từ tương đương: *ác*.
 
 Thí dụ:  
 đẹp *ác*, đẹp *bà cố*
+
+---
 
 ## bảnh, bảnh tỏn
 

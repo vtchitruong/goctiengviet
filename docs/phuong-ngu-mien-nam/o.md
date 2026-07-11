@@ -2,6 +2,6 @@
 
 ## Ô
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| ốm | gầy |
+## ốm
+
+gầy

@@ -1,7 +1,17 @@
 # K
 
-| Từ miền Nam | Ý nghĩa hoặc từ miền khác |
-| --- | --- |
-| kiếm | gươm |
-| kiếng | gương |
-| kinh | kênh |
+## kiếm
+
+gươm
+
+---
+
+## kiếng
+
+gương
+
+---
+
+## kinh
+
+kênh

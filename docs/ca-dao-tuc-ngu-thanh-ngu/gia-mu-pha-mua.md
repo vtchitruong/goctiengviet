@@ -25,4 +25,4 @@ Giả vờ, giả vờ giả vịt, giả dại giả ngây, giả câm giả đ
 
 ### pha
 
-[*Pha*](../tu-vung/p.md){target="_blank"} có nhiều nghĩa, nhưng trong thành ngữ này, *pha* có nghĩa là: lẫn vào, thêm vào, trộn lộn vào với nhau.
+[*Pha*](../tu-vung/p.md#pha){target="_blank"} có nhiều nghĩa, nhưng trong thành ngữ này, *pha* có nghĩa là: lẫn vào, thêm vào, trộn lộn vào với nhau.
