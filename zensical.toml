@@ -16,6 +16,7 @@ nav = [
     "ngu-phap/cau-truc-hai-dong-ngu-song-song.md",
     "ngu-phap/chuoi-vi-tu.md",
     "ngu-phap/dong-tu-va-dong-ngu.md",
+    
     "ngu-phap/neu-du-mac-dau.md",
     "ngu-phap/gioi-ngu.md",
     "ngu-phap/tieng.md",
@@ -36,13 +37,18 @@ nav = [
     "tu-vung/r.md",
     "tu-vung/tim-vs-kiem.md",
     "tu-vung/t.md",
+    "tu-vung/v.md",
   ]},
   { "Ca dao, tục ngữ và thành ngữ" = [
     "ca-dao-tuc-ngu-thanh-ngu/index.md",
     "ca-dao-tuc-ngu-thanh-ngu/cat-do-nguoi.md",
     "ca-dao-tuc-ngu-thanh-ngu/chau-cau-ma-lay-chau-co.md",
+
+    "ca-dao-tuc-ngu-thanh-ngu/danh-lam-thang-canh.md",
     "ca-dao-tuc-ngu-thanh-ngu/duoc-voi-doi-tien.md",
-    "ca-dao-tuc-ngu-thanh-ngu/gia-mu-pha-mua.md"
+    "ca-dao-tuc-ngu-thanh-ngu/mu-ni-che-tai.md",
+    "ca-dao-tuc-ngu-thanh-ngu/gia-mu-pha-mua.md",
+    "ca-dao-tuc-ngu-thanh-ngu/quan-su-than-tu.md"
   ]},
   { "Phương ngữ miền Nam" = [
     "phuong-ngu-mien-nam/index.md",

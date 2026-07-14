@@ -1,5 +1,66 @@
 # D và Đ
 
+## dập
+
+1. Lấp lại, bỏ đất xuống, chôn lấp qua loa; làm cho tắt bằng cách lấp lên cái gì đó.
+
+    Thí dụ:  
+    Lấy nước *dập* lửa.
+
+2. Làm ra đồng loạt sản phẩm nào đó từ khuôn mẫu có sẵn.
+
+    Thí dụ:  
+    *Dập* huy hiệu.
+
+3. Xóa bỏ.
+
+    Thí dụ:  
+    Tiểu thuyết *Lều chõng* của nhà văn Ngô Tất Tố:  
+    "Bởi vì trường quy đã bắt những chữ *dập* xóa, chỉ chấm ba cái vào mặt, để cho người ta có thể nhận rõ nguyên hình của nó."
+
+4. Lúc cấp tập thực hiện một động tác cụ thể làm cho tan hoang, tan nát, biến dạng mục tiêu nào đó.
+
+    Thí dụ:  
+    Pháo của ta đã *dập* vào trận địa của địch.
+
+5. Va chạm mạnh trên bề mặt.
+
+    Thí dụ:  
+    a. Té *dập* mặt.  
+    b. Bị *dập* tay khi đóng đinh.
+
+6. Theo *Đại Nam quấc âm tự vị* (1895):  
+    Trong Nam, đánh *dập* nghĩa là đánh bồi thêm.
+
+---
+
+## dập dã
+
+Khỏa lấp.
+
+Thí dụ:  
+a. Thơ của Phan Văn Trị:  
+Cái nợ tang bồng than thở phận  
+Đành đem *dập dã* giữa phong trần.
+
+b. Thương thì *dập dã* trăm đường.
+
+---
+
+## dập dùa
+
+Chỉ việc gì đó xảy ra dồn dập.
+
+Thí dụ:  
+a. Theo *Đại Nam quấc âm tự vị* (1895):  
+    "Tai họa *dập dùa* thì là tai họa nhiều nỗi."
+
+b. Ca dao miền Nam:  
+Tháng ba chết bão *dập dùa*  
+Tháng năm chết nhộn không thua kém gì.
+
+---
+
 ## diếm
 
 1. *Diếm* là từ chỉ hành động che giấu một cách cứng đầu cứng cổ.

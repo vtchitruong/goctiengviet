@@ -102,11 +102,51 @@ b. Chẳng học lấy đâu biết chữ.
 
 ---
 
+## chợ búa
+
+1. Theo học giả An Chi:  
+    *Búa* thực chất chỉ là từ nguyên dân gian.  
+    *Búa* là một từ Việt gốc Hán, bắt nguồn từ một từ ghi bằng chữ 鋪 mà âm Hán Việt hiện đại là "phố", có nghĩa là cửa hàng, là nơi buôn bán.
+
+    Ở Hà Tĩnh, người ta vẫn gọi cái chợ nhỏ là *búa*. Vậy *chợ búa* chẳng qua là chợ nói chung, và đây vốn là một từ tổ đẳng lập đích thực, mà hai thành tố là những từ đồng nghĩa hoặc gần nghĩa với nhau như: xe cộ, tàu bè, sông ngòi, bến bãi, v.v...
+
+2. Theo nhà thơ Lê Minh Quốc:  
+    Căn cứ vào *Les Origines de la langue Annamite* do HaNoi-Haiphong Imprimerie d'Extrème Orient in năm 1992, *búa* là từ vay mượn từ tiếng Mã Lai: "Lebuh, place publique \[búa (bu+a)\]: chợ búa, place publique et marché" (tr.72).
+
+    Người Việt mượn từ "lebuh" và ghép sau từ "chợ" đã có sẵn như một cách nhấn mạnh thêm lần nữa nhằm chỉ chung về chợ. Theo năm tháng, từ sau phai nghĩa, mất nghĩa.
+
+---
+
+## cọc
+
+1. Thanh sắt, gỗ, tre, bê tông cắm xuống đất.
+
+2. Những đồng tiền tròn được xếp chồng lên cao. Ngày nay có thể là xấp tiền giấy.
+
+    Thí du:  
+    Trong *Hàn nho phong vị phú* của Nguyễn Công Trứ:  
+    "Tiêu dụng lấy chi mà phao phóng, thường giữ ba *cọc* ba đồng,  
+    Mùa màng dành để có bao nhiêu, chừng độ một triêng một bó."
+
+    Trong câu trên, "ba *cọc* ba đồng" nói đầy đủ là "ba *cọc* mỗi *cọc* ba đồng", nghĩa là dù có đến ba *cọc* nhưng thật ra chỉ ba đồng mà thôi, chứng tỏ số tiền ấy ít ỏi.
+
+3. Đưa trước một khoản tiền để giữ chỗ, tiền thế chân.
+
+    Thí dụ:  
+    Tiền đặt *cọc*.
+
+4. Yếu ớt.
+
+    Thí dụ:  
+    Cha già con *cọc*: khi cha đã già mà mới sinh con thì con không được khỏe mạnh như những đứa trẻ khác. 
+
+---
+
 ## cứu cánh
 
-*Cứu cánh* là mục đích cuối cùng. [^2]
+*Cứu cánh* là mục đích cuối cùng.
 
-[^2]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 314.
+Theo Giáo sư Cao Xuân Hạo:
 
 Tuy nhiên, phần lớn người Việt đều dùng *cứu cánh* theo nghĩa "phương tiện cứu vãn". Cách hiểu này là không ổn. Sở dĩ có sự không ổn này là vì chữ *cứu* viết bằng chữ quốc ngữ chỉ có thể hiểu là "cứu nguy" hay "cứu mạng" mà thôi.
 

@@ -38,5 +38,3 @@ Theo *Nông ngư cụ Nam Bộ với ca dao, tục ngữ* (2010) của Phan Văn
 
 Theo *Nông, ngư cụ cổ truyền Nam Bộ nhìn từ Đồng Tháp Mười* (2019) do Hội Sử học Đồng Tháp biên soạn:  
 *Thời* còn có tên gọi là "đụt".
-
-
