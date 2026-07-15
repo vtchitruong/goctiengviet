@@ -1,23 +1,29 @@
 # N
 
+## nâng ly
+
+Chạm cốc.
+
+---
+
 ## nấu cơm
 
-thổi cơm
+Thổi cơm.
 
 ---
 
 ## ngắt
 
-véo
+Véo.
 
 ---
 
 ## nghinh
 
-nghênh
+Nghênh.
 
 Thí dụ:  
-hoan *nghinh* = hoan *nghênh*
+Hoan *nghinh* = hoan *nghênh*.
 
 ---
 
@@ -37,77 +43,77 @@ Quá dại!
 
 ## nhơ bợn
 
-dơ bẩn
+Dơ bẩn.
 
 ---
 
 ## nhơn
 
-nhân
+Nhân.
 
 Thí dụ:  
-a. bệnh *nhơn*, cổ *nhơn*, nạn *nhơn*, phu *nhơn*, sát *nhơn*  
-b. *nhơn* lực, *nhơn* tài
+a. Bệnh *nhơn*, cổ *nhơn*, nạn *nhơn*, phu *nhơn*, sát *nhơn*.  
+b. *Nhơn* lực, *nhơn* tài.
 
 ---
 
 ## nhứt
 
-nhất
+Nhất.
 
 Thí dụ:  
-a. Tân Sơn *Nhứt*  
-b. thứ *nhứt*  
-c. ít *nhứt*    
-d. *nhứt* định
+a. Tân Sơn *Nhứt*.  
+b. Thứ *nhứt*.  
+c. Ít *nhứt*.    
+d. *Nhứt* định.
 
 ---
 
 ## nhựt
 
-nhật
+Nhật.
 
 Thí dụ:  
-*Nhựt* Bổn = *Nhật* Bản
+*Nhựt* Bổn = *Nhật* Bản.
 
 ---
 
 ## nói dai
 
-lải nhải
+Lải nhải.
 
 ---
 
 ## nón
 
-mũ
+Mũ.
 
 ---
 
 ## núp
 
-nấp
+Nấp.
 
 ---
 
 ## nực
 
-nóng
+Nóng.
 
 Thí dụ:  
-trời *nực* = trời *nóng*
+Trời *nực* = trời *nóng*.
 
 ---
 
 ## nước leo nước giựt
 
-nước lên nước rút
+Nước lên nước rút.
 
 ---
 
 ## nước lèo
 
-nước dùng
+Nước dùng.
 
 ---
 

@@ -2,16 +2,22 @@
 
 ## kiếm
 
-gươm
+Gươm.
 
 ---
 
 ## kiếng
 
-gương
+Gương.
+
+---
+
+## kiếng mát
+
+Kính râm.
 
 ---
 
 ## kinh
 
-kênh
+Kênh.

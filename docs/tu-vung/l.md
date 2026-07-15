@@ -1,6 +1,16 @@
 # L
 
-# lườn
+## lãnh
+
+Theo *Đại Nam quấc âm tự vị* (1895):  
+*Lãnh* la thứ hàng nhỏ chỉ, mịn mà láng.
+
+Thí dụ:  
+Quần *lãnh*.
+
+---
+
+## lườn
 
 1. Theo *Việt Nam tự điển* (1931):  
     *Lườn* là phần thịt nạc ở hai bên ngực, thường nói về loài chim, loài cá: *lườn cá*, *lườn gà*, mặc *áo hở lườn*.

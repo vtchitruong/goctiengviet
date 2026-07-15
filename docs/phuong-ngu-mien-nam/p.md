@@ -8,18 +8,24 @@ Từ tương tự: bạc xỉu.
 
 ## phe nghịch
 
-phe bên kia
+Phe bên kia.
+
+---
+
+## phí bao đậu
+
+Phí chống trượt: tiền để bảo đảm thi đậu.
 
 ---
 
 ## phì lũ (肥佬)
 
-thằng mập, ông mập
+Thằng mập, ông mập.
 
 ---
 
 ## phiếm
 
-đùa
+Đùa.
 
 ---

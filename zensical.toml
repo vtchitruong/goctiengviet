@@ -27,6 +27,7 @@ nav = [
     "tu-vung/b.md",
     "tu-vung/c.md",
     "tu-vung/d.md",
+    "tu-vung/h.md",
     "tu-vung/k.md",
     "tu-vung/l.md",
     "tu-vung/m.md",
@@ -43,7 +44,7 @@ nav = [
     "ca-dao-tuc-ngu-thanh-ngu/index.md",
     "ca-dao-tuc-ngu-thanh-ngu/cat-do-nguoi.md",
     "ca-dao-tuc-ngu-thanh-ngu/chau-cau-ma-lay-chau-co.md",
-
+    "ca-dao-tuc-ngu-thanh-ngu/chieu-chieu-ra-dung-ngo-sau.md",
     "ca-dao-tuc-ngu-thanh-ngu/danh-lam-thang-canh.md",
     "ca-dao-tuc-ngu-thanh-ngu/duoc-voi-doi-tien.md",
     "ca-dao-tuc-ngu-thanh-ngu/mu-ni-che-tai.md",
@@ -52,7 +53,7 @@ nav = [
   ]},
   { "Phương ngữ miền Nam" = [
     "phuong-ngu-mien-nam/index.md",
-    "phuong-ngu-mien-nam/a.md",
+    "phuong-ngu-mien-nam/aw.md",
     "phuong-ngu-mien-nam/b.md",
     
     "phuong-ngu-mien-nam/banh.md",

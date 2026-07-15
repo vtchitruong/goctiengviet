@@ -2,13 +2,19 @@
 
 ## rầy rà
 
-phiền hà, phiền phức
+Phiền hà, phiền phức.
+
+---
+
+## rớt nón
+
+Rơi mũ.
 
 ---
 
 ## rờ
 
-vuốt
+Vuốt.
 
 ---
 
@@ -19,10 +25,10 @@ vuốt
 2. Nghĩa bóng: chờ đợi, chịu đựng dài đến mức vô vọng.
 
 Thí dụ:  
-ở tù *rục* xương
+Ở tù *rục* xương.
 
 ---
 
 ## rương
 
-hòm
+Hòm.

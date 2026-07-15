@@ -89,6 +89,28 @@ bàng quang
 
 ---
 
+## bố
+
+1. Cản, ngăn.
+
+2. Vây bắt, lùng sục.
+
+    Thí dụ:  
+    *Bố* ráp.
+
+3. Hăm dọa, dọa nạt.
+
+    Thí dụ:  
+    Mày định *bố* tao đó hả, tao không phải con nít đâu nghen.
+
+---
+
+## bố thắng
+
+Từ của miền khác: má phanh.
+
+---
+
 ## bông
 
 hoa

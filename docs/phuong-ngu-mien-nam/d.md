@@ -2,40 +2,42 @@
 
 ## day qua 
 
-quay qua
+Quay qua.
 
 ---
 
-## dầu hôi
+## Dầu hôi
 
-dầu hỏa
+Dầu hỏa, dầu lửa.
 
 ---
 
 ## dị hợm
 
-khác lạ so với mọi sự thông thường
+Khác lạ so với mọi sự thông thường.
 
 ---
 
 ## dóc
 
-dối
+Dối.
 
 Thí dụ:  
-nói *dóc* ~ nói *dối*
+Nói *dóc* ~ nói *dối*.
+
+---
 
 ## dở như hạch
 
-dở ẹt/dở ẹc, dở òm, dở quá xá
+Dở ẹt/dở ẹc, dở òm, dở quá xá.
 
 ---
 
 ## dù
 
-ô
+Ô.
 
 Thí dụ:  
-cây *dù* = cái *ô*
+Cây *dù* = cái *ô*
 
 ---

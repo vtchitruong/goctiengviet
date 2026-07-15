@@ -8,6 +8,12 @@
 
 ---
 
+## tra
+
+Ráp vào, kết vào.
+
+---
+
 ## trảng
 
 1. Theo *Việt Nam tự điển* (1970):
@@ -53,3 +59,23 @@
 Ví dụ:  
 a. Đỉa *trâu*.  
 b. Chửa *trâu*: chỉ thai phụ mang bầu đã "già tháng", "quá ngày" nhưng vẫn chưa trở dạ.
+
+---
+
+## trốc
+
+1. Đầu.
+
+    Thí dụ:  
+    a. *Trốc* cúi: đầu gối.  
+    b. *Trốc* núi: đỉnh núi.  
+    c. *Trốc* tủ: nóc tủ.  
+    d. Bạc *trốc*: bạc đầu.  
+    e. Cạo *trốc*: cạo đầu.
+
+2. Vị trí đầu, trên, cao.
+
+    Thí dụ:  
+    Ăn trên ngồi *trốc*.
+
+    Theo *Việt Nam từ điển* (1970) của Lê Văn Đức, câu trên có nghĩa là "có chức tước hay sang trọng, được vị nể". 

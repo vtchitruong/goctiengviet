@@ -142,6 +142,12 @@ b. Chẳng học lấy đâu biết chữ.
 
 ---
 
+## cụt ngủn
+
+Cụt hết cỡ, rất ngắn.
+
+---
+
 ## cứu cánh
 
 *Cứu cánh* là mục đích cuối cùng.

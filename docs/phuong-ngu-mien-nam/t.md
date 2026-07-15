@@ -2,7 +2,7 @@
 
 ## tánh
 
-tính
+Tính.
 
 Thí dụ:  
 dễ *tánh* = dễ *tính*
@@ -11,13 +11,13 @@ dễ *tánh* = dễ *tính*
 
 ## tháo mồ hôi
 
-ra nhiều mồ hôi, toát mồ hôi, vã mồ hôi
+Ra nhiều mồ hôi, toát mồ hôi, vã mồ hôi.
 
 ---
 
 ## thạnh
 
-thịnh
+Thịnh.
 
 Thí dụ:  
 *thạnh* tình = *thịnh* tình
@@ -26,7 +26,7 @@ Thí dụ:
 
 ## thâu
 
-thu
+Thu.
 
 Thí dụ:  
 a. tịch *thâu* = tịch *thu*  
@@ -34,79 +34,85 @@ b. *thâu* phục nhân tâm = *thu* phục nhân tâm
 
 ## thất
 
-mất
+Mất.
 
 ---
 
 ## thí dụ
 
-ví dụ
+Ví dụ.
 
 ---
 
 ## thiền thị
 
-thành thị
+Thành thị.
 
 ---
 
 ## thơ thới
 
-thư thái
+Thư thái.
 
 ---
 
 ## thui
 
-nấu
+Nấu.
 
 ---
 
 ## thùng
 
-xô
+Xô.
 
 ---
 
 ## thủng thỉnh
 
-chậm rãi, không vội vã
+Chậm rãi, không vội vã.
 
 ---
 
 ## tịnh
 
-tĩnh
+Tĩnh.
 
 Thí dụ:  
-yên *tịnh* = yên *tĩnh*
+Yên *tịnh* = yên *tĩnh*
 
 ---
 
 ## tía má
 
-thầy u
+Từ của miền khác: thầy u.
 
 ---
 
 ## trái
 
-quả 
+Quả.
 
 Thí dụ:  
 *trái* cam = *quả* cam
 
 ---
 
+## trái cây
+
+Từ của miền khác: hoa quả.
+
+---
+
 ## trễ
 
-muộn
+Muộn.
 
 ---
 
 ## tụi bây
 
-chúng mày
+Chúng mày.
 
 ---
 

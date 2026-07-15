@@ -1,5 +1,43 @@
 # V
 
+## vang dội
+
+Ý nói truyền đi theo mọi hướng, rất xa, rất rộng, rất mạnh mẽ.
+
+---
+
+## vanh
+
+1. Xén, dùng sắc cạnh của mảnh sành mà cứa cho lìa.
+
+    Theo *Việt Nam tự điển* (1931): *Vanh* là xén. Vanh cánh chim.
+
+    Thí dụ:  
+    Ca dao:  
+    Có con chim chích  
+    Nó đậu cành chanh  
+    Tôi lấy mảnh sành  
+    Tôi vanh vào cổ  
+    Nó đổ máu ra  
+    Đem về làm thịt 
+    ...
+
+2. Theo người miền Nam, *vanh* là cắt xung quanh.
+
+    Theo *Việt Nam từ điển* (1970) của Lê Văn Đức, *vanh* nghĩa là cắt vòng quanh.
+
+    Thí dụ:  
+    a. *Vanh tóc*: cắt tóc xung quanh, xén tóc, hớt tóc.  
+    b. Những tàn binh của Lê Văn Khôi bị triều đình bắt được đều chịu hình phạt *vanh* tay, tức là bị chặt ngón tay. 
+
+3. Tròn vạnh, tròn trĩnh, tròn xoe, tròn xoay.
+
+    Thí dụ:  
+    Mặt như là *vanh*: ý nói mặt tròn.
+
+
+---
+
 ## vị
 
 1. (位 - bộ Nhân) vị trí.

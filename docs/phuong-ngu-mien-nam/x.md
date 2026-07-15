@@ -2,7 +2,7 @@
 
 ## xa xuôi
 
-xa xôi
+Xa xôi.
 
 ---
 
@@ -14,19 +14,19 @@ Tương tự *chửi xối xả*.
 
 ## xà bông
 
-savon (tiếng Pháp)
+Savon (tiếng Pháp).
 
 ---
 
 ## xà lan
 
-chaland (tiếng Pháp), sà lan
+Chaland (tiếng Pháp), sà lan
 
 ---
 
 ## xài
 
-dùng
+Dùng.
 
 ---
 
@@ -44,7 +44,7 @@ dùng
 
 ## xáng bạt tai
 
-tát
+Tát.
 
 ---
 
@@ -58,13 +58,13 @@ tát
 
 ## xạo
 
-điêu
+Điêu.
 
 ---
 
 ## xạo ke
 
-khoác lác
+Khoác lác.
 
 ---
 
@@ -73,37 +73,37 @@ khoác lác
 Dồn dập, liên tục, giống như nước chảy ào ào không ngừng.
 
 Thí dụ:  
-chửi xối xả
+Chửi xối xả.
 
 ---
 
 ## xe hơi, xế hộp
 
-ô tô
+Ô tô.
 
 ---
 
 ## xe lửa
 
-tàu hỏa
+Tàu hỏa.
 
 ---
 
 ## xẻ nửa
 
-bổ đôi
+Bổ đôi.
 
 ---
 
 ## xẻo
 
-con rạch nhỏ xíu
+Con rạch nhỏ xíu.
 
 ---
 
 ## xí
 
-giành, giành lấy
+Giành, giành lấy.
 
 ---
 
@@ -117,18 +117,24 @@ giành, giành lấy
 
 ## xối nước
 
-giội nước
+Giội nước.
 
 ---
 
 ## xum xuê
 
-sum suê
+Sum suê.
+
+---
+
+## xức dầu thơm
+
+Dùng nước hoa.
 
 ---
 
 ## xử dụng
 
-sử dụng
+Sử dụng.
 
 ---

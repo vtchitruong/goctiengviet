@@ -16,3 +16,20 @@ So từ núi Sở núi So núi Thầy.
 
 c. Ngồi buồn quấy nước trông trăng  
 Nước trong trăng lặn buồn chăng hỡi buồn.
+
+---
+
+## ngồn ngộn
+
+Rất nhiều, đầy ứ.
+
+---
+
+## nhậm
+
+Khảm, chạm, cẩn, nhận.
+
+Thí dụ:  
+Trong *Hoạn Thư bắt Thúy Kiều vịnh tích* (1921) của nhà văn Lê Hoằng Mưu:  
+"Chuỗi đeo tay, neo đặt chiềng vàng  
+Cà rá *nhậm* kim cang ba hột"  

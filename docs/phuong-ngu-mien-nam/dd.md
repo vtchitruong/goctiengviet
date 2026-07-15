@@ -8,32 +8,36 @@ Sướng phê!
 
 ## đạp thắng
 
-hãm phanh
+Hãm phanh.
 
 ---
 
 ## đặng
 
-được
+Được.
 
 ---
 
 ## đắp mền
 
-trùm chăn
+Trùm chăn.
 
 ---
 
 
 ## đậu
 
-đỗ
+Đỗ.
+
+Thí dụ:  
+a. Thi đậu.  
+b. Đậu xe.
 
 ---
 
 ## đậu phộng
 
-lạc rang
+Lạc rang.
 
 ---
 
@@ -45,32 +49,37 @@ Cút! Cút xéo!
 
 ## đi trốn
 
-lánh mặt
+Lánh mặt.
 
 ---
 
 ## điệu
 
-làm dáng
+Làm dáng.
 
 ---
 
 ## độ nhựt
 
-sống qua ngày
+Sống qua ngày.
 
 ---
 
 ## đờn
 
-đàn
+Đàn.
 
 Thí dụ:  
-giọng *đờn*, *đờn* ca
+Giọng *đờn*, *đờn* ca.
 
 ---
 
-
 ## đù
 
-chậm hiểu, chậm chạp, khờ khạo, không sáng dạ, lù đù
+Chậm hiểu, chậm chạp, khờ khạo, không sáng dạ, lù đù.
+
+---
+
+## đương đi trên đàng
+
+Từ của miền khác: đang đi trên đường.

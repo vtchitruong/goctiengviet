@@ -60,7 +60,25 @@ Theo *Việt Nam tự điển* (1931):
 
 ---
 
+### mít ướt
+
+Mít mật.
+
+---
+
+### mít ráo
+
+Mít dai.
+
+---
+
 ### mù u
+
+---
+
+### ớt hiểm
+
+Ớt chỉ thiên.
 
 ---
 

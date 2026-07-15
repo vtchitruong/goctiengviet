@@ -6,12 +6,13 @@ tốn
 
 ---
 
-## hay
+## hạp nhỡn
 
-giỏi
+Vừa mắt, nhìn vừa ý, hợp gu nhìn.
+
+Từ của miền khác: hợp nhãn.
 
 ---
-
 
 ## hen
 
@@ -32,6 +33,12 @@ cực
 ## hòm
 
 quan tài
+
+---
+
+## hộp quẹt
+
+Từ của miền khác: bao diêm.
 
 ---
 

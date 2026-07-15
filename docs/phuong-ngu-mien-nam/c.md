@@ -1,30 +1,36 @@
 # C
 
+## cà phê sữa đá
+
+Từ của miền khác: cà phê nâu đá.
+
+---
+
 ## cãi bai bải
 
-lý sự ào ào
+Lý sự ào ào.
 
 ---
 
 ## cha
 
-bố
+Bố.
 
 ---
 
 ## chai
 
-lọ
+Lọ.
 
 ---
 
 ## chánh
 
-chính
+Chính.
 
 Thí dụ:  
-a. *chánh* trị  
-b. món ăn *chánh*
+a. *Chánh* trị.  
+b. Món ăn *chánh*.
 
 ---
 
