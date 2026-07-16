@@ -117,6 +117,14 @@ b. Chẳng học lấy đâu biết chữ.
 
 ---
 
+## chúng cư
+
+Từ đúng: chúng cư (*chúng* có dấu sắc).
+
+Từ thường dùng như sai: chung cư.
+
+---
+
 ## cọc
 
 1. Thanh sắt, gỗ, tre, bê tông cắm xuống đất.

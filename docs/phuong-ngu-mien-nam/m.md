@@ -1,11 +1,5 @@
 # M
 
-## mãng cầu
-
-trái *mãng cầu* = quả na
-
----
-
 ## mắc cổ
 
 vướng họng

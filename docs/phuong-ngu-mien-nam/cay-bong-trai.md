@@ -4,7 +4,7 @@ Tên gọi các loài cây, bông và trái ở Nam bộ:
 
 ## Cây
 
-## bồn bồn
+### bồn bồn
 
 ---
 
@@ -41,6 +41,12 @@ Tên gọi các loài cây, bông và trái ở Nam bộ:
 ## Trái
 
 ### chôm chôm
+
+---
+
+### mãng cầu
+
+Trái *mãng cầu* = quả na.
 
 ---
 

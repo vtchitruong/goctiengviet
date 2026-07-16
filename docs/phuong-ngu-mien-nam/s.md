@@ -11,6 +11,10 @@ c. sanh kế = sinh kế
 
 ---
 
+## sanh bất phùng thời
+
+---
+
 ## sấp nhỏ
 
 ---

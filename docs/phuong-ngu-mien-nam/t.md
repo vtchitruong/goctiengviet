@@ -9,6 +9,12 @@ dễ *tánh* = dễ *tính*
 
 ---
 
+## tấn thối lưỡng nan
+
+Tiến thoái lưỡng nan.
+
+---
+
 ## tháo mồ hôi
 
 Ra nhiều mồ hôi, toát mồ hôi, vã mồ hôi.

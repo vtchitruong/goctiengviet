@@ -1,5 +1,11 @@
 # M
 
+## mạn tính
+
+Từ thường dùng như sai: mãn tính, bệnh mãn tính.
+
+---
+
 ## mảy
 
 *Mảy* bao gồm các nghĩa sau:
@@ -17,7 +23,9 @@
 
 2. Tư thế ngồi. *Ngồi tréo mảy* là ngồi gác đùi nọ qua đùi kia, còn gọi ngồi *vắt mảy*.
 
-### mảy may
+---
+
+## mảy may
 
 *Mảy may* cùng nghĩa với *mảy*, chỉ sự vật nhỏ xíu, rất nhỏ.
 
@@ -39,6 +47,17 @@ Chắc chi có có, không không mơ màng."
 Cho là "không" thì hết thảy đều không  
 "Có" với "không" như ánh trăng dưới nước  
 Đừng có bám vào cái "có", và cũng đừng cho cái "không" là không."
+
+---
+
+## mão
+
+Mua bán không cân đong đo đếm cụ thể, mà chỉ ước lượng bằng mắt. Vì thế, người mua phải tinh mắt, nhiều kinh nghiệm, phải ước đoán cho chính xác, nếu không lỗ vốn.
+
+Thí dụ:  
+Tôi bán *mão* đó, mua không?
+
+Từ tương đương với *mão*: mua soát, mua hộp, mua đồng, mua xa cạ, mua ngang ngửa.
 
 ---
 
