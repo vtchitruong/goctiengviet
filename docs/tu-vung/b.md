@@ -2,12 +2,22 @@
 
 ## bằng
 
-1. Ngang nhau, không hơn không kém.
+1. Với.
+
+    Thí dụ:  
+    Đi du lịch *bằng* chiếc xe đạp.
+
+2. Căn cứ, dựa vào.
+
+    Thí dụ:  
+    *Bằng* lời nói này, dám quả quyết bạn dóc tổ.
+
+3. Ngang nhau, không hơn không kém.
 
     Ví dụ:  
     *Bằng* chị *bằng* em, *bằng* vai phải lứa: ngang bằng nhau, không thua kém người cùng tuổi, họ có cái này, mình cũng có cái kia tương xứng.
 
-2. Như.
+4. Như.
 
     Ví dụ:
 
@@ -23,7 +33,7 @@
     "Song mai nguyệt tỏ thanh *bằng* nước  
     Cửa trúc sương xâm lạnh nữa đồng."
 
-3. Ngang với.
+5. Ngang với.
 
     Ví dụ:  
     a. *Truyện Kiều* của Nguyễn Du:  
@@ -33,6 +43,42 @@
     a. *Truyện Kiều* của Nguyễn Du:  
     "Ngẫm từ dấy việc binh đao  
     Đống xương vô định đã cao *bằng* đầu."
+
+6. Theo *Việt Nam từ điển* (1931):  
+    *Bằng* nghĩa là nương tựa vào, chắc vào đấy để làm chứng.
+
+    Thí dụ:  
+    a. *Bằng* chứng.  
+    b. Khẩu quyết vô *bằng*.
+
+    c. Dân ca:  
+    Tình *bằng* có cái trống cơm  
+    Khen ai khéo vỗ ớ mấy bồng mà nên bông.
+
+    Cái trống cơm làm chứng, làm *bằng* cho việc "khen ai khéo vỗ".
+
+7. Chỉ thời gian hiện tại, chỉ sự việc đang diễn ra nhằm khẳng định một điều cụ thể, rõ ràng.
+
+    Thí dụ:  
+    a. Bài vè ở Nam bộ:  
+    Nghe vẻ nghe ve  
+    Nghe vè nghề bối  
+    *Bằng* ngày *bằng* tối  
+    Khoét vách đào hang”? 
+
+    Hai câu cuối khẳng định việc làm của bối (tức bọn trộm cắp hàng hóa trên ghe thuyền ở dọc sông) đã xảy ra trong thời điểm cũng như ngày hôm nay, như đêm hôm nay, nhằm giúp người nghe dễ dàng hình dung không gian lẫn thời gian.
+
+    b. Bài vè:   
+    Có chùa kế chợ Nhà Bàn  
+    Kêu chùa Huỳnh Sự rõ ràng *bằng* nay.
+    
+    Nghĩa là, chùa ấy trong câu chuyện cũ đang kể cũng giống như cái chùa hiện nay.
+
+    c. Từ Hải trả lời Thúy Kiều trong *Truyện Kiều*:  
+    "*Bằng* nay bốn bể không nhà  
+    Theo càng thêm bận biết là đi đâu?"
+
+    Ý Từ Hải muốn nói là "như ngày nay", "trong lúc này".
 
 ---
 
