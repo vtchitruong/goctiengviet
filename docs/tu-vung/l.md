@@ -91,6 +91,28 @@ c. Đừng làm chuyện *lắc lẻo*: đừng khinh suất.
     
 ---
 
+## lề
+
+1. Với một trang giấy, *lề* là khoảng trống từ bên trái được để trắng.
+
+    Theo *Việt Nam tự điển* (1931):  
+    *Lề* là dây xe dùng để đóng sách.
+
+    Thí dụ:  
+    Xe *lề* đóng sách.
+
+2. Thói phép đã quen.
+
+    Thí dụ:  
+    a. *Lề* thói.  
+    b. Giấy rách phải giữ lấy *lề*.
+
+    *Lề* trong câu tục ngữ này mang nghĩa *lề* thói.
+
+    Theo *Đại từ điển tiếng Việt* (1999), câu tục ngữ này có hàm nghĩa: trong hoành cảnh hết sức khó khăn, nghèo ngặt, cố giữ lấy *lề* thói, nề nếp, phẩm hạnh, không phá bỏ truyền thống thống thói tục tốt đẹp vốn có.
+
+---
+
 ## lộn
 
 1. Lật mặt trong ra ngoài, mặt ngoài vào trong.
