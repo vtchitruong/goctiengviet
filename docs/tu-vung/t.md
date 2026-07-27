@@ -164,6 +164,13 @@ Ráp vào, kết vào.
 
 ---
 
+## trạng huống
+
+Theo *Hán Việt Tân từ điển* (1975) của Nguyễn Quốc Hùng:  
+*Trạng huống* 狀況 nghĩa là cái tình cảnh bày ra trước mắt.
+
+---
+
 ## trâu
 
 *Trâu* dùng để chỉ sự vật gì to lớn hơn cùng loại.
