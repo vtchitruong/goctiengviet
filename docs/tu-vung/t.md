@@ -1,5 +1,27 @@
 # T
 
+## tai
+
+Giải nghĩa *tai* chỉ bộ phận thân thể.
+
+
+1. Chữ *tai* 顋 bộ hiệt 頁. Nghĩa của nó là "\[gò\] má" (cheek trong tiếng Anh). Đi vào tiếng Việt thì nó nhích lên trên để chỉ cơ quan của thính giác (ear trong tiếng Anh). Chỉ cách nhau không đầy gang tấc nên sự "nhúc nhích" ngữ nghĩa này là chuyện hoàn toàn bình thường.
+
+    Đây không phải là *tai* trong *tóc tai* vì tóc mà đi với *tai* (cơ quan thính giác) thì sẽ là một đôi đũa lệch, không phải là cấu trúc đẳng lập.  
+    Thí dụ:  
+    Trong thành ngữ "tóc *tai* bù xù", thì tóc bù xù, chứ vành tai, lỗ tai, mang tai, màng nhĩ không có bù xù.
+    
+2. Chữ *tai* 鰓 bộ ngư 魚 nghĩa là mang cá (gill, branchia trong tiếng Anh).
+
+    Suy đến cùng, tai 顋 (gò má) và tai 鰓 (mang cá) là hai từ đồng nguyên. Hiện tượng đồng nguyên này cũng góp phần giúp cho ta hiểu được tại sao tiếng Việt lại ghép hai từ *mang* và *tai* (thành *mang tai*) để chỉ phần sau bên dưới của tai người.
+
+3. Chữ tai 䰄 bộ biêu/bưu 髟, mà *Ngọc thiên* (dẫn theo Khang Hy) giảng là "tiểu phát" 小髪, tức "tóc con, tóc ngắn". Đây mới đích thị là chữ *tai* trong *tóc tai*, một cấu trúc đẳng lập gồm hai từ cận nghĩa.
+
+    Điều này chứng tỏ rằng *tai* (tóc con) là một từ cổ, xưa kia từng được dùng độc lập. Còn bây
+giờ thì nó đã chết. Nhưng "hoá thạch" của nó thì vẫn còn hiện diện trong danh ngữ *tóc tai*.
+
+---
+
 ## tái bản
 
 *Tái bản* là danh từ, không phải động từ.
