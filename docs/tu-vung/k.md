@@ -1,5 +1,12 @@
 # K
 
+## khai phóng
+
+Theo *Hán Việt Tân từ điển* (1975) của Nguyễn Quốc Hùng:  
+*Khai phóng* nghĩa là mở mang và buông thả, ý nói làm cho tốt đẹp hơn, và không kìm giữ, trái lại giúp đỡ cho tiến xa hơn.
+
+---
+
 ## khấng
 
 *Khấng*, *chi khấng* nghĩa là không ưng, không chịu.

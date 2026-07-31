@@ -1,5 +1,28 @@
 # B
 
+## bàn bạc
+
+*Bàn bạc* là điệp thức của *biện bạch* 辯白, trong đó *bạch* là âm Hán Việt hiện hành của
+chữ 白 mà *bạc* là một âm rất xưa.
+
+Đây cũng chính là chữ *bạc* trong vàng bạc.
+
+*Bàn bạc* không phải là từ láy.
+
+---
+
+## bảnh bao
+
+*Bảnh bao* là điệp thức của hai chữ Hán *bính bưu* 炳彪 mà Hán điển (zdic.net) giảng là "ban lan đích hổ văn", nghĩa là "những cái vằn tươi sáng, rực rỡ \[trên lông\] hổ". Hai chữ này còn có một hình thức đảo là *bưu bính* mà *Việt-Hán thông thoại tự-vị* của Đỗ Văn Đáp giảng là "rực rỡ" (shining splendid trong tiếng Anh).
+
+*Bảnh* hiển nhiên là một từ độc lập.
+
+Còn về hiện tượng *bao* là điệp thức của *bưu* thì ta có một trường hợp tương tự sát sườn với nó là chữ *bảo* 寶 trong *bảo vật* cũng đọc *bửu* theo tương quan AO - ƯU (không kể đến điệp thức *báu*, như trong *châu báu*).
+
+*Bảnh bao* là một cấu trúc đẳng lập do *bảnh* và *bao* hợp thành, không phải là từ láy.
+
+---
+
 ## bằng
 
 1. Với.
