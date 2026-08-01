@@ -107,12 +107,6 @@ Còn về hiện tượng *bao* là điệp thức của *bưu* thì ta có mộ
 
 ## bóng bảy
 
-4. Bảy trong bóng bảy .- TĐTLTV cũng ghi nhận bóng
-bảy và giảng là “1.Có vẻ đẹp hào nhoáng bề ngoài” và “2.(Lời
-văn) có nhiều hình ảnh, trau chuốt và có sức gợi cảm". Quyển
-từ điển này cũng xem bảy là một yếu tố láy nhưng thực ra
-thì đây 
-
 *Bảy* trong *bóng bảy* là một yếu tố gốc Hán, bắt nguồn ở một từ ghi bằng chữ 斐 mà âm Hán Việt hiện hành là *phỉ*, mà nghĩa gốc là "có màu sắc rực rỡ", rồi nghĩa bóng là "văn vẻ, bay bướm".
 
 *Bảy* ↔ *phỉ* thì cũng hoàn toàn giống như *bay* ↔ *phi*. 
