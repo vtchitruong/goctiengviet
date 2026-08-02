@@ -144,6 +144,18 @@ Còn về hiện tượng *bao* là điệp thức của *bưu* thì ta có mộ
 
 ---
 
+## bối rối
+
+*Bối* trong *bối rối* là một yếu tố Hán Việt, mà chữ Hán là 哱.
+
+Theo *Hán ngữ đại tự điển* (Thành Đô, 1993):  
+*Bối* có nghĩa là "loạn dã", nghĩa là "rối vậy".
+
+*Bối rối* không phải là từ láy.
+
+---
+
+
 ## bụi bặm
 
 *Bặm* trong *bụi bặm* là một từ (ít nhất là một hình vị) tiếng Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 湴, mà âm Hán Việt hiện hành là *bạm*, có nghĩa là bùn, bùn nhão, chất nhầy.

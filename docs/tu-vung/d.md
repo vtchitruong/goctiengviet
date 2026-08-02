@@ -1,5 +1,15 @@
 # D
 
+## dày dạn
+
+*Dạn* trong *dày dạn* là một yếu tố gốc Hán, bắt nguồn ở một từ ghi bằng chữ 單, âm Hán Việt hiện hành là *đạn*.
+
+Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng, *đạn* có một nghĩa là "dày dặn".
+
+*Dày dạn* không phải là từ láy.
+
+---
+
 ## dập
 
 1. Lấp lại, bỏ đất xuống, chôn lấp qua loa; làm cho tắt bằng cách lấp lên cái gì đó.
@@ -61,6 +71,17 @@ Tháng năm chết nhộn không thua kém gì.
 
 ---
 
+## dật dờ
+
+*Du* có điệp thức là *dờ*.
+
+*Dật dờ* là điệp thức của hai yếu tố Hán Việt *dật du* 逸遊, mà nghĩa gốc 
+là "rong chơi nhàn hạ".
+
+*Dật dờ* không phải là từ láy.
+
+---
+
 ## diếm
 
 1. *Diếm* là từ chỉ hành động che giấu một cách cứng đầu cứng cổ.
@@ -80,3 +101,13 @@ Tháng năm chết nhộn không thua kém gì.
     Năm 1821, có lần vua Minh Mạng bảo thị thần: "Dân Gia Định vốn sợ Tổn trấn Lê Văn Duyệt."
 
     Vua Minh Mạng: "Dân Gia Định vốn có tiếng trung nghĩa." Ý rằng, sự kiêng cữ này là do họ "ăn quả nhớ người trồng cây", ai làm ơn cho mình thì mình nhớ ơn, tôn trọng dù người đó đã khuất bóng. Trường hợp nói trại này thể hiện sự tự giác của người miền Nam trong phép ứng xử phải đạo dành cho Tổng trấn Lê Văn Duyệt.
+
+---
+
+## dơ dáng
+
+*Dáng* trong *dơ dáng* là một danh từ độc lập, thường đi chung với *hình* thành *hình dáng*, còn *dơ dáng* là vế đầu của thành ngữ "*dơ dáng* dại hình" như có thể thấy trong câu 1357 của Truyện Kiều: "Lại càng *dơ dáng* dại hình".
+
+Theo *Từ điển Truyện Kiều* (1974) của Đào Duy Anh, *dơ dáng* nghĩa là mặt mày thì trơ trẻn, xấu hổ.
+
+*Dơ dáng* không phải là từ láy.

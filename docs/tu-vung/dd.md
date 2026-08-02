@@ -6,6 +6,24 @@
 
 ---
 
+## đày đọa
+
+*Đọa* trong đày *đọa* là một yếu tố Hán Việt mà chữ Hán là 墮, có nghĩa là "rơi xuống, thoái hóa; làm cho xuống cấp, làm cho mất phẩm chất."
+
+*Đày đọa* không phải là từ láy.
+
+---
+
+## đầm đìa
+
+*Đầm đìa* không phải là từ láy. Cả *đầm* lẫn *đìa* đều là những danh từ độc lập.
+
+*Đầm* là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 潭, mà âm Hán Việt hiện hành là *đàm*, có nghĩa là... "đầm".
+
+*Đìa* là âm Hán việt xưa của chữ 池 mà âm Hán Việt hiện hành là *trì*, có nghĩa là "ao".
+
+---
+
 ## đất
 
 *Đất* là điệp thức của *địa* 地 (↔ *đị*) theo tương ứng I ↔ ÂT.
@@ -13,6 +31,17 @@
 ### đất đai
 
 *Đất đai* là điệp thức của *địa đái* 地带.
+
+---
+
+## điêu đứng
+
+*Điêu đứng* là điệp thức của *điếu đướng* 伄儅, có nghĩa là bất thường, thất thường.
+
+Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng:  
+*Điếu đương* (*đương* không có dấu sắc) nghĩa là "Bất thường. Danh từ nhà buôn, chỉ sự khan hiếm hàng hóa trên thị trường".
+
+*Điêu đứng* không phải là từ láy.
 
 ---
 
