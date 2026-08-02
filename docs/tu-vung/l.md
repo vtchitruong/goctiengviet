@@ -1,5 +1,41 @@
 # L
 
+## long lanh
+
+*Long lanh* là điệp thức của từ tổ *lung linh* 瓏玲 trong tiếng Hán, mà Hán điển (zdic.net), cũng như nhiều nguồn khác, giảng là "sáng sủa" (quang minh đích dạng tử) (bright; brilliant trong tiếng Anh).
+
+*Long lanh* còn có điệp thức là *lóng lánh*.
+
+*Long lanh* không phải là từ láy.
+
+---
+
+## lò dò
+
+*Lò* là hình vị hiện diện trong *lò dò* và *lò mò*.
+
+*Lò* trong *lò dò* là một yếu tố gốc Hán, bắt nguồn ở một từ ghi bằng chữ 瞜, mà âm Hán Việt hiện hành là *lâu*, xưa hơn nữa là *lầu*, có nghĩa là "xem kỹ, nhìn kỹ".
+
+*Lò dò* không phải là từ láy.
+
+---
+
+# lòa xòa
+
+*Lòa* trong *lòa xòa* là một yếu tố Hán Việt, ghi bằng chữ 髟 trên đầu và 累 dưới chân, nay đọc là *loa* nhưng âm xưa là *lòa*. Theo *Hán ngữ đại từ điển* (Thành Đô, 1993), *lòa* có nghĩa là "tóc tai rậm rạp".
+
+*Lòa xòa* là từ ghép đẳng lập, không phải là từ láy.
+
+---
+
+## lớn lao
+
+*Lao* trong *lớn lao* là một hình vị Hán Việt mà chữ Hán là 牢, với nghĩa hữu quan là "bao la" 包羅, nghĩa là có phạm vi rộng lớn đến có thể chứa mọi thứ.
+
+*Lớn lao* là một cấu trúc đẳng lập gồm hai yếu tố cận/đồng nghĩa. *Lớn lao* không phải là từ láy.
+
+---
+
 ## lãnh
 
 Theo *Đại Nam quấc âm tự vị* (1895):  
@@ -89,6 +125,16 @@ c. Đừng làm chuyện *lắc lẻo*: đừng khinh suất.
 
     c. Làm *léo*: làm khôn khéo, làm quỷ quyệt.
     
+---
+
+## lê la
+
+*La* là một hình vị hiện diện trong *lê la* và *la cà*.
+
+*La* trong *lê la* là một yếu tố Hán Việt mà chữ Hán viết với bộ *túc* 足 bên trái và thanh phù *la* 羅 bên phải thành 足+羅. *La* có nghĩa là "đi lại khó khăn".
+
+*Lê la* không phải là từ láy.
+
 ---
 
 ## lề

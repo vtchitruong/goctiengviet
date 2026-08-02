@@ -8,6 +8,14 @@
 
 ---
 
+## cáu kỉnh
+
+*Kỉnh* là điệp thức của *cảnh*, một yếu tố Hán Việt, ghi bằng chữ 𢙾, có nghĩa là "oán giận, hờn dỗi".
+
+*Cáu kỉnh* không phải là từ láy.
+
+---
+
 ## cất
 
 1. Dời đi, đem đi đặt để vào chỗ khác.

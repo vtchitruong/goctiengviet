@@ -1,5 +1,13 @@
 # H
 
+## hát hỏng
+
+*Hỏng* trong *hát hỏng* là một hình vị gốc Hán, bắt nguồn ở một từ ghi bằng chữ 嗊 mà âm Hán Việt hiện hành là *hổng*, có nghĩa là "hát".
+
+*Hát hỏng* không phải là từ láy.
+
+---
+
 ## hay
 
 1. Tốt, giỏi.
@@ -45,3 +53,13 @@
     Làm quan *hay* quân, làm chồng *hay* vợ.
     
     Câu này có nghĩa là lính phải chịu phép quan, vợ phải chịu phép chồng.
+
+---
+
+## hở hang
+
+*Hang* trong *hở hang* là một hình vị Hán Việt ghi bằng chữ 䦭 mà âm Hán Việt hiện hành là *hương*, cũng đọc *hang*, có nghĩa là "mở".
+
+*Hở hang* không phải là từ láy.
+
+---
