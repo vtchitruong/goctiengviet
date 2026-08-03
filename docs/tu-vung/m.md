@@ -102,6 +102,49 @@ Trong *di cảo "Dở Mắm"* (2015), học giả Vương Hồng Sển kể về
 
 ---
 
+## mon men
+
+*Mon* trong *mon men* là một hình vị gốc Hán, bắt nguồn ở một từ ghi bằng chữ 捫, mà âm Hán Việt hiện hành là *môn*, có nghĩa là "sờ mó; mò mẫm".
+
+*Mon* ↔ *môn* còn có một điệp thức nữa là *mơn* trong *mơn man*, *mơn trớn*.
+
+*Mon men* không phải là từ láy.
+
+---
+
+## mê man
+
+Tiếng Hán có từ tổ *mê man* 迷漫, có nghĩa là "\[cát bụi, sương tuyết\] lan tràn, bao phủ".
+
+Trong tiếng Việt, do hiện tượng mà chúng tôi ("chúng tôi" ở đây là học giả An Chi) thường gọi là sự cố ngôn ngữ (accident linguistique) nên chữ *man* 漫 là "đầy, nhiều" đã bị thay thế bằng chữ *man* 悗, có nghĩa là "mê hoặc, lầm lẫn" nên *mê man* mới có nghĩa là "mê kéo dài", như 
+đã giảng trong *Từ điển Tiếng Việt* 2008.
+
+*Mê man* không phải là từ láy.
+
+---
+
+## mộng mẹo
+
+*Mẹo* là âm xưa của chữ 卯, mà âm Hán Việt hiện hành là *mão*. *Hán điển* giảng là "mộc khí thượng an tuẩn đầu đích khổng nhãn" 木器上安榫頭的 孔眼, nghĩa là "lỗ để đút mộng vào trong đồ gỗ", và dịch sang tiếng Anh là "mortise".
+
+Vậy *mộng* là... "mộng", còn *mẹo* là cái "lỗ mộng".
+
+Cho đến giữa thế kỷ XVII, từ *mẹo* vẫn còn "sống" nên đã được Alexandre de Rhodes ghi nhận thành một mục trong *Từ điển Việt Bồ La* (1651) mà nhóm Thanh Lãng đã dịch là "nhét vào, tra vào, mộng mẹo". 
+
+Chữ 卯 này thường dùng để ghi tên của chi thứ tư trong thập nhi chi, mà tiếng Việt miền Bắc, rồi tiếng Việt toàn dân hiện nay, đọc là *mão* nhưng trong Nam trước đây chỉ đọc là *mẹo*. Ngay cả hiện nay, rất nhiều người "bình dân" trong Nam cũng thường nói tuổi *Mẹo* chứ không nói "tuổi *Mão*".
+
+*Mộng mẹo* không phải là từ láy.
+
+---
+
+## mùa màng
+
+*Màng* trong *mùa màng* là âm xưa của chữ *mang* 忙, có nghĩa là "bận rộn" trong *mang nguyệt* 忙月, có nghĩa là "tháng bận rộn của nhà nông" ("busy months" trong tiếng Anh).
+
+*Mùa màng* không phải là từ láy.
+
+---
+
 ## mụn
 
 1. Theo *Đại Nam quấc âm tự vị* (1895) của Huình Tịnh Paulus Của:  
@@ -127,3 +170,15 @@ Trong *di cảo "Dở Mắm"* (2015), học giả Vương Hồng Sển kể về
 
     Ví dụ:  
     Hiếm hoi có vài *mụn* con.
+
+---
+
+## mỹ miều
+
+*Miều* trong *mỹ miều* là âm rất xưa của chữ diệu 妙 trong *mỹ diệu* 美妙.
+
+*Mỹ diệu* được dịch sang tiếng Anh là "beautiful; marvellous; nice; splendid; wonderful". Còn *diệu* 妙 là "clever; excellent; fine; subtle; wonderful". Đây là một chữ thuộc vận mục tiếu 笑, thanh mẫu minh 明 nên đúng theo phiên thiết thì nó phải đọc là *miệu*. Còn *miều* là một âm xưa hơn nữa, có thể ngược lên tới đời Hán.
+
+*Mỹ miều* không phải là từ láy.
+
+---

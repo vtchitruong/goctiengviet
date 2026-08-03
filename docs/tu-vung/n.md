@@ -1,82 +1,36 @@
 # N
 
-## nghệ
+## nài nỉ
 
-1. Nghề nghiệp.
+*Nỉ* có nghĩa là dùng lời lẽ nhẹ nhàng, thấm thía, dễ đi vào lòng người.
 
-    Thí dụ:  
-    a. Nhất *nghệ* tinh, nhất thân vinh.  
-    b. Bá *nghệ* bá tri vị chi bá láp.
+*Ni* là một hình vị hiện diện trong *nài nỉ*, *năn nỉ* và *nỉ non*.
 
-2. Nói tắt của nghệ thuật.
+Theo *Từ điển tiếng Việt* (2021) của Hoàng Phê:
 
-    Thí dụ:  
-    *Nghệ* cả củ = nghệ thuật cả củ, nghĩa là nghệ thuật ấy đã đạt đến đỉnh cao, tột bực, điêu luyện, tinh xảo, khó ai có thể bắt chước.
+- nài *nỉ*: nài một cách thiết tha, dai dẳng đến mức người ta khó lòng từ chối.
+- năn *nỉ*: nói khẩn khoản để nài xin. 
+- *nỉ* non: tỉ tê chuyện tâm tình.
 
----
+*Năn nỉ* còn có một biến thể ngữ âm (điệp thức) là *nằn nì*.
 
-## ngồi buồn
-
-Động tác *ngồi buồn* cho thấy một tư thế được diễn ra trong khoảng thời gian dài nhất định. Có như thế, con người ta mới có thể hồi tưởng hoặc làm một việc gì đó có lớp lang, thấu đáo. Còn nếu *đi* / *đứng* / *nằm* *buồn* thì không thể.
-
-Theo *Việt Nam tự điển* (1970):  
-*Ngồi buồn* là tiếng dùng trong văn chương khi mở đầu thuật một việc tình cảm.
-
-Ví dụ:  
-a. Ngồi buồn nhớ mẹ ta xưa  
-Miệng nhai cơm búng, lưỡi lừa cá xương.
-
-b. Ngồi buồn đem thước đi đo  
-So từ núi Sở núi So núi Thầy.
-
-c. Ngồi buồn quấy nước trông trăng  
-Nước trong trăng lặn buồn chăng hỡi buồn.
+*Nài nỉ* không phải là từ láy.
 
 ---
 
-## ngồn ngộn
+## não nuột
 
-Rất nhiều, đầy ứ.
+*Nuột* trong *não nuột* là một hình vị gốc Hán, bắt nguồn ở một từ ghi bằng chữ 𢗉 mà âm Hán Việt 
+là *nột*, có nghĩa là "buồn rầu".
 
----
-
-## nhậm
-
-Khảm, chạm, cẩn, nhận.
-
-Thí dụ:  
-Trong *Hoạn Thư bắt Thúy Kiều vịnh tích* (1921) của nhà văn Lê Hoằng Mưu:  
-"Chuỗi đeo tay, neo đặt chiềng vàng  
-Cà rá *nhậm* kim cang ba hột"
+*Não nuột* không phải là từ láy.
 
 ---
 
-## nhen nhúm
+## nết na
 
-Hoặc *nhen nhóm*.
+*Na* trong *nết na* là một hình vị Hán Việt mà chữ Hán là 儺. Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng, *na* nghĩa là "đi đứng có ý tứ phép tắc”. Hán điển (zdic.net) giảng là "bộ hành hữu tiết độ" 步行有節度.
 
-Là từ đôi, có nghĩa là gầy dựng dần dần.
-
-Thí dụ:  
-a. *Nhen* lửa, *nhúm* lửa, *nhóm* lửa đều cùng nghĩa với nhau.
-
-b. *Nhen nhúm* ý tưởng, *nhen nhóm* ý tưởng, *nhen nhúm* hy vọng, *nhen nhóm* hy vọng.
+*Nết na* không phải là từ láy.
 
 ---
-
-## nhúm
-
-1. Chụm các que củi lại để gầy ra lửa.
-
-    Thí dụ:  
-    a. *Nhúm* bếp = nhóm bếp.
-
-2. Chỉ các thành viên hội lại, tụ lại.
-
-    Thí dụ:  
-    Một *nhúm* người = một nhóm nhóm.
-
-3. Díu lại, nhăn, không thẳng thóm.
-
-    Thí dụ:  
-    Quần áo nhăn *nhúm*.
