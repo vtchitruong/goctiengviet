@@ -121,6 +121,12 @@
 
 ---
 
+## cuống quít
+
+*Quít* trong *cuống quít* là một hình vị gốc Hán, bắt nguồn ở một từ ghi bằng chữ 獝 mà âm Hán Việt hiện hành là *huất*, có nghĩa là "điên rồ".
+
+---
+
 ## cụt ngủn
 
 Cụt hết cỡ, rất ngắn.

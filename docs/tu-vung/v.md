@@ -35,6 +35,31 @@
     Thí dụ:  
     Mặt như là *vanh*: ý nói mặt tròn.
 
+---
+
+## ve vãn
+
+*Ve* là một hình vị xuất hiện trong *ve vãn* và *vuốt ve*.
+
+*Ve* là một từ độc lập.
+
+Thí dụ:  
+a. *Ve* gái.  
+b. Ông nghè sai lính ra *ve*. 
+
+*Vãn* cũng là một từ độc lập.
+
+Theo *Đại Nam quấc âm tự vị*:  
+*Vãn* được ghi bằng chữ 挽, có nghĩa là "chuyện đặt có ca vần; lời than tiếc, viết vào vải trắng mà đưa kẻ chết".
+
+Theo *Việt Nam tự điển* của Khai trí Tiến đức:  
+*Vãn* được ghi bằng chữ 輓, có nghĩa là "câu hát vần có dọng buồn".
+
+Thực ra thì trong tiếng Hán, chữ 挽 có thể dùng thay cho chữ 輓.
+
+Trong tiếng Việt hiện đại thì từ *vãn* đã đi một quãng đường chuyển nghĩa rất xa. *Chuyện vãn* được *Từ điển tiếng Việt* (2021) ghi chú là động từ và giảng là "nói chuyện tiêu khiển cho qua thì giờ". Còn *vãn* trong *ve vãn* thì đã chuyển từ việc dùng những lời ai oán để tỏ lòng tiếc thương người chết sang "tán tỉnh".
+
+*Ve vãn* không phải là từ láy.
 
 ---
 
@@ -142,3 +167,19 @@
 
     d. *Vị* vũ trù mâu: phải biết chằng buộc từ lúc chưa mưa, tương đương câu "đừng để mất bò mới lo làm chuồng".
 
+---
+
+## vội vàng, vững vàng
+
+*Vàng* trong *vững vàng* là điệp thức của *hoàng* 皇, có nghĩa là "to lớn; nghiêm trang; tốt đẹp".
+
+Chữ *hoàng* 皇 này còn có nghĩa là "nôn nao, nóng vội" và với nghĩa này thì nó có điệp thức là *vàng* trong *vội vàng*.
+
+Vậy tiếng Việt có hai hình vị – thực ra, có thể là từ cổ – *vàng* khác nhau: 
+
+1. *vàng* trong *vững vàng*
+2. *vàng* trong *vội vàng*
+
+*Vội vàng* và *vững vàng* đều không phải là từ láy.
+
+---

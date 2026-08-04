@@ -1,5 +1,13 @@
 # L
 
+## láu táu
+
+*Táu* trong *láu táu* là điệp thức của *táo* 躁, có nghĩa là "nóng nảy".
+
+*Láu táu* không phải là từ láy.
+
+---
+
 ## lãnh
 
 Theo *Đại Nam quấc âm tự vị* (1895):  

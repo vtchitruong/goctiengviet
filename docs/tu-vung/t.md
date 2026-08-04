@@ -1,5 +1,13 @@
 # T
 
+## tả pín lù
+
+*lù* (爐) nghĩa là lò nung.
+
+*Tả pí lù*, hoặc *tả pín lù* là món lẩu nhúng, món thịt nhúng trong nổi lẩu trên bếp lửa.
+
+---
+
 ## tai
 
 Giải nghĩa *tai* chỉ bộ phận thân thể.
@@ -36,11 +44,21 @@ Nếu cuốn sách đã được in lại nhiều lần thì không thể nói l
 
 ---
 
-## tả pín lù
+## tấp nập
 
-*lù* (爐) nghĩa là lò nung.
+*Tấp* là một hình vị hiện diện trong *tấp nập* và *tới tấp*.
 
-*Tả pí lù*, hoặc *tả pín lù* là món lẩu nhúng, món thịt nhúng trong nổi lẩu trên bếp lửa.
+*Nập* trong *tấp nập* là một hình vị Hán Việt mà chữ Hán là 孨, nghĩa là "tụ họp đông đảo".
+
+*Tấp nập* không phải là từ láy.
+
+---
+
+## tất nghiệp
+
+Từ đúng: tất nghiệp (*tất*, chữ *â).
+
+Từ thường dùng như sai: tốt nghiệp, bằng tốt nghiệp.
 
 ---
 
@@ -106,125 +124,10 @@ Khát khao trăng gió mà không hay."
 
 ---
 
-## tất nghiệp
+## tiệc tùng
 
-Từ đúng: tất nghiệp (*tất*, chữ *â).
+*Tùng* là một hình vị Hán Việt, mà chữ Hán là 叢, có nghĩa là "tụ tập".
 
-Từ thường dùng như sai: tốt nghiệp, bằng tốt nghiệp.
-
----
-
-## thanh tích bất hảo
-
-Theo *Tiếng Việt lý thú* (2003) của nhà giáo Trịnh Mạnh:   
-*Thanh* là tiếng.  
-*Tích* là vết.  
-*Thanh tích bất hảo* dùng để chỉ người có tiếng xấu và hành vi không tốt.
-
-Từ thường dùng nhưng sai: thành tích bất hảo. Vì *thành tích* là những việc làm được, đạt được, mang ý nghĩa tích cực.
+*Tiệc tùng* không phải là từ láy.
 
 ---
-
-## thói
-
-Lề lối lâu ngày.
-
-Thí dụ:  
-a. *Thói* ăn nết ở.  
-b. Lề *thói*.
-
----
-
-## thống kế
-
-Từ đúng: thống kế (*kế* có dấu sắc).
-
-Từ thường dùng như sai: thống kê.
-
----
-
-## tra
-
-Ráp vào, kết vào.
-
----
-
-## trảng
-
-1. Theo *Việt Nam tự điển* (1970), *trảng* bao gồm các nghĩa sau:
-
-    1. Trống trải, bằng phẳng, không bị che khuất.
-
-        Thí dụ:  
-        a. *Đứng trảng* một mình.  
-        b. Lựa *chỗ trảng* trồng cây mới tốt.
-
-    2. Khoảng đất chỉ có một thứ cây hay một vật khác giữa rừng rậm.
-
-        Thí dụ:  
-        Trảng Bàng, Trảng Bom.
-
-2. Theo nhà báo Sơn Lâm (báo Tuổi Trẻ):
-
-    - *Trảng* là cái khoảng trống để gác kèo. Người thợ biết ăn ong, khi lội rừng mà gặp một *trảng êm* là sướng dữ thần, bỏ hết mục đích ban đầu để kiếm kèo mà gác. *Trảng êm*, gác đúng trong mùa bông tràm thì có khi vừa gác xong đã thấy ong dò đường bay về.
-
-    - Tùy theo kiểu rừng mà người ta gọi là *trảng tràm con*, *trảng sậy*, *trảng năn*, *trảng dây choại*, v.v... Trong đó, *trảng tràm con* và *trảng sậy* là dễ gác kèo để ong về nhất.
-
-    Như vậy, *trảng* trong nghề ăn ong chính là hiểu theo nghĩa *"trống trải, bằng phẳng, không bị che khuất"*.
-
-3. Theo *Phương ngữ Nam Bộ* (2015) của Bùi Thanh Kiên:  
-    *Trảng* là tính từ chỉ vật dụng "trẹt, bằng phẳng".
-
-    Thí dụ:  
-    a. *Ghe trảng lòng*.
-
-    b. [Ghe lườn](l.md#luon){target="_blank"} là nguyên cây dài mà mổ "lòng máng". "Lòng máng" có thể sâu hay *trảng*, trẹt, cạn tùy mục đích sử dụng.
-
-    c. Ca dao miền Nam:  
-    "Anh đi ghe cá *trảng lườn*  
-    Ở trên Gia Định xuống vườn thăm em."
-
----
-
-## trạng huống
-
-Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng:  
-*Trạng huống* 狀況 nghĩa là cái tình cảnh bày ra trước mắt.
-
----
-
-## trâu
-
-*Trâu* dùng để chỉ sự vật gì to lớn hơn cùng loại.
-
-Thí dụ:  
-a. Đỉa *trâu*.  
-b. Chửa *trâu*: chỉ thai phụ mang bầu đã "già tháng", "quá ngày" nhưng vẫn chưa trở dạ.
-
----
-
-## trốc
-
-1. Đầu.
-
-    Thí dụ:  
-    a. *Trốc* cúi: đầu gối.  
-    b. *Trốc* núi: đỉnh núi.  
-    c. *Trốc* tủ: nóc tủ.  
-    d. Bạc *trốc*: bạc đầu.  
-    e. Cạo *trốc*: cạo đầu.
-
-2. Vị trí đầu, trên, cao.
-
-    Thí dụ:  
-    Ăn trên ngồi *trốc*.
-
-    Theo *Việt Nam từ điển* (1970) của Lê Văn Đức, câu trên có nghĩa là "có chức tước hay sang trọng, được vị nể". 
-
----
-
-## trú sở
-
-Từ đúng: trú sở (*trú* có dấu sắc).
-
-Từ thường dùng nhưng sai: trụ sở.
