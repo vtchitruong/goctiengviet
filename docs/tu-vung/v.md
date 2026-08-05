@@ -183,3 +183,11 @@ Vậy tiếng Việt có hai hình vị – thực ra, có thể là từ cổ �
 *Vội vàng* và *vững vàng* đều không phải là từ láy.
 
 ---
+
+## vờ vịt
+
+*Vịt* trong *vờ vịt* là điệp thức của *quịt* trong *ăn quịt* theo tương quan QU ↔ V.
+
+*Vờ vịt* không phải là từ láy.
+
+---
