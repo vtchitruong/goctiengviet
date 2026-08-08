@@ -98,6 +98,23 @@ nav = [
     "phuong-ngu-mien-nam/u.md",
     "phuong-ngu-mien-nam/v.md",
     "phuong-ngu-mien-nam/x.md",
+  ]},
+  { "Quan hệ ngữ âm" = [
+    "quan-he-ngu-am/index.md",
+    "quan-he-ngu-am/a.md",
+    "quan-he-ngu-am/b.md",
+    "quan-he-ngu-am/c.md",
+    "quan-he-ngu-am/d.md",
+    "quan-he-ngu-am/e.md",
+    "quan-he-ngu-am/g.md",
+    "quan-he-ngu-am/h.md",
+    "quan-he-ngu-am/i.md",
+    "quan-he-ngu-am/l.md",
+    "quan-he-ngu-am/o.md",
+    "quan-he-ngu-am/q.md",
+    "quan-he-ngu-am/s.md",
+    "quan-he-ngu-am/t.md",
+    "quan-he-ngu-am/u.md",
   ]}
 ]
 

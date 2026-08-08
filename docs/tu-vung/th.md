@@ -13,7 +13,7 @@ Từ thường dùng nhưng sai: thành tích bất hảo. Vì *thành tích* l�
 
 ## thèm thuồng
 
-*Thuồng* trong *thèm thuồng* là điệp thức của hai từ *sàm sùng* (*sàm* là chữ 饞 và *sùng* gồm hai chữ này ghép lại 飠崇) trong tiếng Hán, có nghĩa là "tham ăn".
+*Thuồng* trong *thèm thuồng* là điệp thức của hai từ *sàm sùng* 饞𩞉 trong tiếng Hán, có nghĩa là "tham ăn".
 
 *Thèm thuồng* không phải là từ láy.
 
