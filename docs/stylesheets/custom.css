@@ -251,17 +251,22 @@ body {
 
 
 /* ==========================================================================
-   BACK TO TOP BUTTON DESKTOP VISIBILITY FIX
+   BACK TO TOP BUTTON CENTERED HORIZONTALLY (MOBILE & DESKTOP)
    ========================================================================== */
-.md-top {
+.md-top,
+.md-top[data-md-state="hidden"],
+.md-top[data-md-state="active"] {
     position: fixed !important;
-    right: 20px !important;
-    bottom: 20px !important;
+    left: 50% !important;
+    right: auto !important;
+    bottom: 1.6rem !important;
+    transform: translateX(-50%) !important; /* Forces horizontal center despite JS transform overrides */
+    margin: 0 !important;                   /* Resets theme default mobile margins */
     z-index: 100 !important;
-    transition: opacity 0.25s, transform 0.25s !important;
+    transition: opacity 0.25s, visibility 0.25s !important;
 }
 
-/* Ensure JS show/hide states trigger properly on desktop */
+/* Visibility states */
 .md-top[data-md-state="hidden"] {
     opacity: 0 !important;
     pointer-events: none !important;
@@ -275,14 +280,37 @@ body {
 }
 
 /* ==========================================================================
+   FORCE TRANSLATE "BACK TO TOP" BUTTON LABEL VIA CSS
+   ========================================================================== */
+.md-top {
+    font-size: 0 !important; /* Hides the default "Back to top" text node */
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 6px !important;
+}
+
+.md-top svg {
+    width: 1.1rem !important;
+    height: 1.1rem !important;
+}
+
+.md-top::after {
+    content: "Về đầu trang" !important;
+    font-size: 0.75rem !important; /* Restores visible text size in Vietnamese */
+    line-height: 1 !important;
+}
+
+/* ==========================================================================
    FLOATING MAIN NAVIGATION MENU BUTTON
    ========================================================================== */
 .md-floating-drawer-btn {
     position: fixed !important;
     left: 20px !important;
-    bottom: 20px !important;
-    width: 44px !important;
-    height: 44px !important;
+    bottom: 1.6rem !important;
+    top: auto !important;
+    width: 38px !important;
+    height: 38px !important;
     border-radius: 50% !important;
     background-color: #2f5c4a !important; /* Theme green color */
     color: #f5f5dc !important;            /* Theme beige color */
@@ -296,8 +324,8 @@ body {
 }
 
 .md-floating-drawer-btn svg {
-    width: 22px !important;
-    height: 22px !important;
+    width: 18px !important;
+    height: 18px !important;
 }
 
 .md-floating-drawer-btn:hover {
