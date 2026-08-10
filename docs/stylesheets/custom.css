@@ -40,7 +40,7 @@ body {
     flex-direction: column !important;
     min-height: 100vh !important;
     overflow-x: hidden !important; 
-    overflow-y: visible !important; /* CRITICAL FIX: Forces inner layout to pass vertical overflow upward */
+    overflow-y: visible !important; 
 }
 
 /* Force the core reading content block to grow and fill any empty vertical space */
@@ -55,7 +55,6 @@ body {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
-    /* background-color: var(--gtv-more-brown) !important;  */
 }
 
 /* Completely remove the empty system dialog wrapper from layout calculations */
@@ -227,7 +226,6 @@ body {
     color: var(--gtv-grey) !important;
 }
 
-
 /* PART 2: Full-width Edge-to-Edge Slogan Bar */
 .footer-part-light {
     background-color: var(--gtv-dark-brown) !important; 
@@ -249,6 +247,62 @@ body {
     font-size: 0.75rem;
     font-weight: 400;
     letter-spacing: 0.03em;
+}
+
+
+/* ==========================================================================
+   BACK TO TOP BUTTON DESKTOP VISIBILITY FIX
+   ========================================================================== */
+.md-top {
+    position: fixed !important;
+    right: 20px !important;
+    bottom: 20px !important;
+    z-index: 100 !important;
+    transition: opacity 0.25s, transform 0.25s !important;
+}
+
+/* Ensure JS show/hide states trigger properly on desktop */
+.md-top[data-md-state="hidden"] {
+    opacity: 0 !important;
+    pointer-events: none !important;
+    visibility: hidden !important;
+}
+
+.md-top[data-md-state="active"] {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    visibility: visible !important;
+}
+
+/* ==========================================================================
+   FLOATING MAIN NAVIGATION MENU BUTTON
+   ========================================================================== */
+.md-floating-drawer-btn {
+    position: fixed !important;
+    left: 20px !important;
+    bottom: 20px !important;
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 50% !important;
+    background-color: #2f5c4a !important; /* Theme green color */
+    color: #f5f5dc !important;            /* Theme beige color */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+    z-index: 100 !important;
+    cursor: pointer !important;
+    transition: transform 0.2s ease, background-color 0.2s ease !important;
+}
+
+.md-floating-drawer-btn svg {
+    width: 22px !important;
+    height: 22px !important;
+}
+
+.md-floating-drawer-btn:hover {
+    transform: scale(1.08) !important;
+    background-color: #5d4037 !important; /* Theme brown hover color */
 }
 
 /* ==========================================================================
@@ -292,5 +346,37 @@ body {
 
     .md-search__button::after {
         border-radius: 5rem;
+    }
+
+    /* 1. Display the dimmed background overlay on desktop when drawer is checked */
+    [data-md-toggle="drawer"]:checked ~ .md-overlay {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        background-color: rgba(0, 0, 0, 0.5) !important;
+        z-index: 1999 !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+    }
+
+    /* 2. Slide out the main navigation sidebar on desktop when drawer is checked */
+    [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 18rem !important;
+        height: 100vh !important;
+        z-index: 2000 !important;
+        background-color: #f5f5dc !important; /* Theme beige color */
+        box-shadow: 4px 0 20px rgba(0, 0, 0, 0.25) !important;
+        transform: translateX(0) !important;
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        overflow-y: auto !important;
+        padding: 1rem !important;
     }
 }

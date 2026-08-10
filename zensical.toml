@@ -125,7 +125,8 @@ custom_dir = "overrides"
 features = [
     "navigation.tabs",
     "navigation.indexes",
-    "navigation.footer"
+    "navigation.footer",
+    "navigation.top"
 ]
 
 plugins = [
@@ -136,8 +137,7 @@ plugins = [
 markdown_extensions = [
     "attr_list",
     "fenced_code",
-    "tables"
-
+    "tables",
 ]
 
 logo = "img/goc-tieng-viet-logo.png"
