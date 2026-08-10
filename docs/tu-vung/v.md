@@ -37,6 +37,25 @@
 
 ---
 
+## vắt vẻo
+
+Theo *Từ điển tiếng Việt* của Hoàng Phê:  
+*Vắt* là một động từ, nghĩa là "đặt hoặc nằm ngang qua một vật khác và để cho buông thõng xuống".
+
+Theo *Việt Nam tự điển* của Lê Văn Đức:  
+*Vẻo* là một danh từ, nghĩa là "đỉnh, chóp, nơi cao nhất", với những thí dụ: 
+*Vẻo* đá, *vẻo* núi; ngồi vắt-*vẻo*.
+
+*Vẻo* là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 杪, được phiên là *diếu* trong *Hán Việt từ điển* của Đào Duy Anh, là *diểu* trong *Hán Việt tự điển* của Thiều Chửu, nhưng âm chính xác của nó theo vận thư của Trung 
+Hoa thì lại là *viểu*.
+
+*Viểu* (> *diểu*/*diếu*) nghĩa là "ngọn cây" và cái nghĩa này chính là xuất phát điểm cho nghĩa của chữ *vẻo* mà Lê Văn Đức đã giảng. "Đỉnh, chóp, nơi cao nhất" chẳng qua là những nghĩa phái sinh từ cái nghĩa "ngọn cây" của chữ/từ 
+viểu.
+
+*Vắt vẻo* không phải là từ láy.
+
+---
+
 ## ve vãn
 
 *Ve* là một hình vị xuất hiện trong *ve vãn* và *vuốt ve*.
