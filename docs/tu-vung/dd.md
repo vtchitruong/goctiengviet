@@ -2,56 +2,56 @@
 
 ## đá
 
-*Đá* là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 石, mà âm Hán Việt hiện hành là *thạch*, xưa từng đọc là *đố* (> *đá*).
+**Đá** là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 石, mà âm Hán Việt hiện hành là **thạch**, xưa từng đọc là *đố* (> *đá*).
 
 ---
 
 ## đày đọa
 
-*Đọa* trong đày *đọa* là một yếu tố Hán Việt mà chữ Hán là 墮, có nghĩa là "rơi xuống, thoái hóa; làm cho xuống cấp, làm cho mất phẩm chất."
+**Đọa** trong đày *đọa* là một yếu tố Hán Việt mà chữ Hán là 墮, có nghĩa là "rơi xuống, thoái hóa; làm cho xuống cấp, làm cho mất phẩm chất."
 
-*Đày đọa* không phải là từ láy.
+**Đày đọa** không phải là từ láy.
 
 ---
 
 ## đầm đìa
 
-*Đầm đìa* không phải là từ láy. Cả *đầm* lẫn *đìa* đều là những danh từ độc lập.
+**Đầm đìa** không phải là từ láy. Cả *đầm* lẫn *đìa* đều là những danh từ độc lập.
 
-*Đầm* là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 潭, mà âm Hán Việt hiện hành là *đàm*, có nghĩa là... "đầm".
+**Đầm** là một từ Việt gốc Hán, bắt nguồn ở một từ ghi bằng chữ 潭, mà âm Hán Việt hiện hành là **đàm**, có nghĩa là... "đầm".
 
-*Đìa* là âm Hán việt xưa của chữ 池 mà âm Hán Việt hiện hành là *trì*, có nghĩa là "ao".
+**Đìa** là âm Hán việt xưa của chữ 池 mà âm Hán Việt hiện hành là **trì**, có nghĩa là "ao".
 
 ---
 
 ## đất
 
-*Đất* là điệp thức của *địa* 地 (↔ *đị*) theo tương ứng I ↔ ÂT.
+**Đất** là điệp thức của **địa** 地 (↔ *đị*).
 
 ### đất đai
 
-*Đất đai* là điệp thức của *địa đái* 地带.
+**Đất đai** là điệp thức của **địa đái** 地带.
 
 ---
 
 ## điêu đứng
 
-*Điêu đứng* là điệp thức của *điếu đướng* 伄儅, có nghĩa là bất thường, thất thường.
+**Điêu đứng** là điệp thức của **điếu đướng** 伄儅, có nghĩa là bất thường, thất thường.
 
 Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng:  
-*Điếu đương* (*đương* không có dấu sắc) nghĩa là "Bất thường. Danh từ nhà buôn, chỉ sự khan hiếm hàng hóa trên thị trường".
+**Điếu đương** (*đương* không có dấu sắc) nghĩa là "Bất thường. Danh từ nhà buôn, chỉ sự khan hiếm hàng hóa trên thị trường".
 
-*Điêu đứng* không phải là từ láy.
+**Điêu đứng** không phải là từ láy.
 
 ---
 
 ## điếu đóm
 
-*Điếu* là ống hút, cần điếu, ống điếu dùng để hút thuốc lào.
+**Điếu** là ống hút, cần điếu, ống điếu dùng để hút thuốc lào.
 
-*Đóm* là mảnh tre nứa khô, được chẻ mỏng, dùng để châm lửa khi hút.
+**Đóm** là mảnh tre nứa khô, được chẻ mỏng, dùng để châm lửa khi hút.
 
-*Điếu đóm* thường dùng trong khẩu ngữ, mượn hình ảnh *mang điếu* và *châm đóm*, để ám chỉ chuyện làm những việc lặt vặt, không quan trọng, nhằm phục vụ người khác, với hàm ý mỉa mai.
+**Điếu đóm** thường dùng trong khẩu ngữ, mượn hình ảnh *mang điếu* và *châm đóm*, để ám chỉ chuyện làm những việc lặt vặt, không quan trọng, nhằm phục vụ người khác, với hàm ý mỉa mai.
 
 ---
 
@@ -97,10 +97,25 @@ Theo *Hán Việt tân từ điển* (1975) của Nguyễn Quốc Hùng:
 
 ---
 
+## đôi công
+
+**Đôi công** nghĩa là "đối đầu trực diện", hiện nay thường dùng trong bình luận thể thao, nhất là bóng đá. Thuật ngữ tương ứng trong tiếng Anh là "go head to head" hoặc "go toe to toe".
+
+Chữ đúng phải là **đối công** 對攻 (chữ **đối** có dấu sắc). Chữ này đã bị phát âm trệu trạo thành "đôi công" khi đi vào tiếng ta.
+
+**Sòng phẳng** là một cấu trúc đẳng lập chủ yếu dùng để nói về cách xử sự đàng hoàng trong quan hệ giao dịch, hàm ý là không có gian lận, mà *Từ điển tiếng Việt* do Văn Tân chủ biên giảng là "nói trả nợ đầy đủ và đúng hẹn".
+
+**Đối công** và **sòng phẳng** không đồng nghĩa. Do đó, câu bình luận bóng đá "Đội A (đội yếu hơn) có thể thi đấu **sòng phẳng** với đội B (đội mạnh hơn)" là lệch lạc về nghĩa.
+
+Thay vào đó, để diễn đạt ý "đối đầu ngang ngửa" hoặc "đối đầu trực diện", ta phải dùng từ **đối công** (> đôi công): "Đội A có thể **đôi công** với đội B".
+
+
+---
+
 ## đồng
 
 Theo nhà nghiên cứu Ngô Đức Thịnh:  
-*Đồng* là từ gốc Hán, chỉ người con trai dưới 15 tuổi với tư chất trong trắng, ngây thơ, để thần linh có thể nhập vào. Dần dần về sau người ta dùng để chỉ cô gái thay thế các thiếu niên.
+**Đồng** là từ gốc Hán, chỉ người con trai dưới 15 tuổi với tư chất trong trắng, ngây thơ, để thần linh có thể nhập vào. Dần dần về sau người ta dùng để chỉ cô gái thay thế các thiếu niên.
 
-Ví dụ:  
+Thí dụ:  
 Thánh ốp *đồng*.

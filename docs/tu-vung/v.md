@@ -1,5 +1,16 @@
 # V
 
+## vang
+
+*Vang* là danh từ dùng để chỉ một thứ cây có vỏ màu đỏ, dùng để làm chất nhuộm, có tên Hán Việt là *tô mộc* 蘇木, tên khoa học là Caesalpinia sappan.
+
+Thí dụ:  
+Tục ngữ: Đỏ như *vang*, vàng như nghệ.
+
+*Rượu vang* là rượu có màu đỏ, cũng như rượu trắng là rượu có màu trắng.
+
+---
+
 ## vang dội
 
 Ý nói truyền đi theo mọi hướng, rất xa, rất rộng, rất mạnh mẽ.
