@@ -279,26 +279,32 @@ body {
     visibility: visible !important;
 }
 
-/* ==========================================================================
+/* ================================================================
    FORCE TRANSLATE "BACK TO TOP" BUTTON LABEL VIA CSS
-   ========================================================================== */
+   ================================================================ */
 .md-top {
     font-size: 0 !important; /* Hides the default "Back to top" text node */
     display: inline-flex !important;
     align-items: center !important;
     justify-content: center !important;
     gap: 6px !important;
+    white-space: nowrap !important; /* Prevents text from wrapping into 2 lines */
 }
 
 .md-top svg {
     width: 1.1rem !important;
     height: 1.1rem !important;
 }
-
+ 
 .md-top::after {
     content: "Về đầu trang" !important;
     font-size: 0.75rem !important; /* Restores visible text size in Vietnamese */
     line-height: 1 !important;
+}
+
+.md-top:hover {
+    background-color: var(--gtv-green) !important;
+    color: var(--md-default-bg-color) !important;
 }
 
 /* ==========================================================================
@@ -395,10 +401,12 @@ body {
         position: fixed !important;
         top: 0 !important;
         left: 0 !important;
-        width: 18rem !important;
-        height: 100vh !important;
+        width: 16rem !important;
+        height: 95vh !important;
         z-index: 2000 !important;
-        background-color: #f5f5dc !important; /* Theme beige color */
+        background-color: rgba(255, 255, 255, 0.88) !important; /* Semi-transparent white */
+        backdrop-filter: blur(10px) !important;
+
         box-shadow: 4px 0 20px rgba(0, 0, 0, 0.25) !important;
         transform: translateX(0) !important;
         display: block !important;
@@ -406,5 +414,25 @@ body {
         opacity: 1 !important;
         overflow-y: auto !important;
         padding: 1rem !important;
+        margin: 1rem !important;
+        border-radius: 1rem !important;
+    }
+
+    [data-md-toggle="drawer"]:checked ~ .md-container .md-content {
+        transform: none !important;
+        margin-left: 12.5rem !important;
+        margin-right: auto !important;
+    }
+
+    /* 2. Clear inner sidebar backgrounds so transparency displays properly */
+    [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary .md-sidebar__inner {
+        background-color: transparent !important;
+    }
+
+    /* 3. Reduce background content blur on the overlay */
+    [data-md-toggle="drawer"]:checked ~ .md-overlay {
+        backdrop-filter: blur(1px) !important;         /* Minimal blur so main content is readable */
+        -webkit-backdrop-filter: blur(2px) !important;
+        background-color: rgba(0, 0, 0, 0.1) !important; /* Subtle dark dimming tint */
     }
 }
